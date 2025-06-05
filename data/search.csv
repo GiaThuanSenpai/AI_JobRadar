@@ -1,0 +1,2148 @@
+ID,SeekerID,Search Query,Search Date
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+<<<<<<< HEAD
+=======
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+>>>>>>> GT_1
+73b1454b-96d4-45e6-977c-5f78c55c3fdf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-04-30T09:49:01.563695600
+0368112e-0c8b-4cb0-8aae-d3a46ee2ec3a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-04-30T09:49:01.637497500
+a4cfd573-1f4a-4f8b-8cf5-ef2aaaece35b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-04-30T09:49:13.215175700
+0013d09f-1f0c-4f69-9243-2dca14c0800d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-04-30T09:49:13.247092500
+382c28c2-5563-4b3a-8da7-03fb59ae2e69,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:49:15.459338500
+6cdfc654-b934-4fc2-ae1c-ccaeefb7b35e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:49:15.506212400
+ca5528af-69d6-429a-b0f1-d9cbb525fc79,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:49:18.809015500
+cf8d01da-4fbf-4328-b5fd-bfeb6768df5f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:49:18.838446300
+c5a86a08-1036-4a2c-92b5-80507f556d51,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:49:19.182148200
+4b4bfd79-8fa7-4ca3-b837-e7a5aa9df90d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:49:19.209068300
+4537206f-86be-4702-9aa9-0b9d92255c3d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:50:01.652018800
+e7057274-e817-47b0-beac-7d3ccb640211,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:50:01.676951600
+4cf3c5f1-c642-40b4-9224-ab844fc7992a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:50:01.712392100
+053b0187-0be1-4267-9f8f-60d71e4d34a2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:50:01.737326100
+fdb0f443-fca5-4710-827c-1ec3f9f2b1b6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:50:05.636879500
+8625255d-95c8-4bed-9351-7f4b503f6c1b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:50:05.664338600
+d43a8427-d020-4bd1-9193-643f6ee52219,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:50:05.704199
+ef968271-3d8e-4bdb-955e-edc43394475e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:50:05.732117600
+4a1938af-5873-4b6d-a8e8-5cff46633d80,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:52:37.357845600
+bbf04cb5-777b-402b-89a6-24b6853bf1ff,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:52:37.381782800
+9c975666-6dc8-459b-97fa-29bd6e659bd2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:52:37.419694600
+42f449b5-69d8-4541-9c2f-dc9dc5552e7b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:52:37.446137400
+35fc318c-2571-445d-ba06-91e425cd685d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:33.862884500
+1c2be44d-2b3f-4fff-98a7-67f2a6b4b364,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:33.862884500
+53cd2ac0-2eb5-40f2-8ddf-7eadfef90e1f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:33.888386500
+0d2735cf-b84b-46de-aeae-1f4d9bda18e4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:34.955233400
+9ef9e40a-198d-4c54-a072-32b7a5a15d71,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:34.968208300
+31865bcb-c1d6-4769-98df-57e21d26184e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:34.992134100
+30d3c73a-b620-4454-a9b9-d1d3f881e065,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:36.203022300
+9e425d82-dba9-4c79-9750-4349edea1b56,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:36.206014300
+32c75569-c2cc-48a4-919d-fd001bbff08d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:36.227487300
+10bb92d4-120c-4b49-b748-a5fca58a8113,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:36.691023800
+2177391c-1f3e-463d-bc2e-0b74e82ba8ad,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:36.694025500
+721db104-d5cf-442b-9bf7-2d2546caafbe,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:36.719075
+22f740f7-1177-4a03-868b-b1db36a82ede,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.077973400
+ca22e8ad-2aa5-4961-9bb3-1d2a754d1f9d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.082959800
+9cc96dd5-a033-401a-b472-2d42f1b33569,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.110885100
+979ea99e-7e39-4d39-bcc5-35f46960519c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.288825400
+cbc3e20a-43eb-45f4-a7c3-a779b0e43501,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.293289700
+d728229a-2bf0-4fed-9daf-770990db7ad3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.321197600
+94af10f3-06ae-41a7-92e9-4fb1befe7e66,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.438973100
+41326e9c-89ca-470b-ac37-ac1edf6725e8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.441965
+15133ec0-81f1-4693-9f80-64fe7a6458ce,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.469941700
+e7134b8f-ca05-4fc9-9da7-ba6388e0866e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.628418500
+40b66650-5715-4045-baf5-e8dd79132f91,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.632407400
+1d423202-640a-4e39-bd4c-76f5876604ae,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.658337900
+be9f533f-916f-4459-870d-6f38cb51bd95,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.787693300
+0b097c88-54d3-49ef-b722-f9fead95ca5c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.791681300
+fda3f955-a2ae-4b61-9c71-5a2a8e6706a2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.821601800
+aaf192fc-7e73-4766-9b6a-e0d8f5f078b4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.996213400
+5322538d-de85-4bc1-a533-1faa4f7ca547,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:37.998208600
+411462af-a899-4f9b-8c2e-4c0bdcf421ad,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:38.028127900
+a06244ca-cbae-4e68-a0bd-4b9b2a5c90f3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:38.191322700
+b2373d0d-9d84-4d80-9f09-554a4efce380,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:38.194315200
+cc2ef425-2ec1-4485-b732-97412f4c35f8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:38.226228300
+04823ea5-d964-4a78-b561-8ff1719496e6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:38.412246800
+d3570bd4-f5ce-402e-aa9d-facdac57b7ae,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:38.415983200
+019c2ae6-d52e-49ce-8a6e-a16ba46b9278,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:38.444905900
+b3cef3d6-8b83-491d-819f-69436049918b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:51.773005
+6b968bd9-448b-4f96-8cf6-2d8b7a706786,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:51.782978900
+e2ed9796-cdd6-4a40-8bfa-3061e9e0f466,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:51.807990100
+9f541fae-9802-4c93-af6e-f4f2f3472957,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:53.712565700
+ed7b752e-4db4-4338-9347-d80812082ee9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:53.735503400
+dd1af505-6ffa-41a0-8e73-e15edd11bcba,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:53.771407700
+392cbdfe-a074-4242-9eff-9a71fa3f7cdd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:53.798447200
+aff0a97a-0d8a-414a-8333-24391de5dfba,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:58.276936700
+49aa86b4-cce7-4d3b-a2ea-b90e19be360d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:58.281923400
+cad0ab51-55bb-4241-8719-0a2eccbb00cf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:58.309392200
+7a148464-4451-4a04-b2f9-bc82b3667a10,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:58.752876300
+d7d5fe9d-0c9e-477d-9670-d555657976de,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:58.754871
+03963ea3-af2b-43ec-80e3-784054d53cc4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:58.781800500
+daa71841-291e-460d-a672-561cc522f57a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:59.174911800
+b257d2eb-1b1f-480d-ad50-ccb293aec9b1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:59.174911800
+b66e4b27-f1fa-487c-b8f4-3895e3c15346,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:55:59.197860600
+a1a03a6c-8b94-4254-9f7a-d3eb7a09c77d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:56:02.687819600
+f36e299e-b5ff-44a6-af16-92f8fc6b1f77,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:56:02.687819600
+584eeef5-734c-4395-893e-0d9ee1992a32,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-04-30T09:56:02.709762100
+e5591922-7d17-4279-9922-3050ab0e3a69,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:12:45.192527900
+a667780e-b09e-403c-b23c-7ffe840b48c3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:12:45.248234500
+b2c2851f-88f7-405f-953d-2f3320083721,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kiến trúc/Xây dựng, Tài chính/Ngân hàng",2025-04-30T10:12:48.356328300
+f24341c3-6786-4da5-abd2-4c3576b53d8b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kiến trúc/Xây dựng, Tài chính/Ngân hàng",2025-04-30T10:12:48.356328300
+0057aaf8-9085-4654-9ca1-e3ce79002e75,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kiến trúc/Xây dựng, Tài chính/Ngân hàng",2025-04-30T10:12:48.385396600
+d3825010-0955-4154-8d6b-9c42efbd1424,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:12:48.936563100
+f97b200b-4206-45d4-8bc8-ced63cb74f7e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:12:48.937560100
+ac21c1d7-b7ec-44ae-91c7-f9bffc8f0cea,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:12:48.964366500
+fc43714a-f69d-4a27-9f53-abd1d18a8a5d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:13:10.032695100
+6bf92b7b-2d5a-42c8-9d2c-2f7e889fedec,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:13:10.032695100
+4c1df64f-4616-41e8-a745-cb6cc3a05fa4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:13:10.065606800
+879414f1-2ea8-489e-b173-72669477bd16,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:13:11.071865500
+26e039c2-2951-450c-b723-3438c09cf493,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:13:11.071865500
+8b1267d1-9ff0-4cf5-a0d1-80d448a41c87,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:13:11.109789200
+97cdfc2b-5d50-4f87-9eb6-9509123c5f02,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:13:12.566710700
+6eeb6ce0-e4fd-417c-aee1-f4b0d4b77168,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:13:12.566710700
+050eca74-0318-472b-b396-a816d0617d41,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kiến trúc/Xây dựng,2025-04-30T10:13:12.599401600
+d5283969-079c-4d0c-a097-7876ae463da7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-04-30T10:13:12.658387300
+025e05cd-85ce-4826-bdcf-5e4030f93918,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-04-30T10:13:12.686324900
+913b33da-0d63-4491-9723-d5ffdd9a7f58,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-04-30T10:13:34.084346400
+afc11114-201f-412f-a55f-3e1e9df3f130,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-04-30T10:13:34.089332400
+1add9916-48ae-452e-9923-2b0aff9e2c82,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-04-30T10:13:34.131310200
+731e4066-0840-4d6b-9c61-a1d07ab00e23,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Thương mại điện tử,2025-04-30T10:13:34.207344300
+f8df9d5d-c3c9-4b7d-ab46-eccf274dbd29,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Thương mại điện tử,2025-04-30T10:13:34.236685500
+63c96489-747b-47ce-8372-b5e147b96dfe,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Thương mại điện tử,2025-04-30T10:13:39.992806700
+b41c923c-de90-4deb-a388-cfd94854ec1e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Thương mại điện tử,2025-04-30T10:13:39.994801
+fafe3ba3-01d2-4a73-bb5c-d1bfc7d2bbb9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Thương mại điện tử,2025-04-30T10:13:40.029708100
+02983c1d-90ba-404b-b748-e2ebb78a34a1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-04-30T10:13:40.106619100
+49703304-177a-4c1e-a1fd-e25cd64055c6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-04-30T10:13:40.141526100
+4f60b5a8-ddb1-433f-b396-652ecc1c458e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:13:55.235817700
+eb437caa-4db1-4f9e-b817-ded089292d62,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:13:55.235817700
+d2f9866f-9119-4944-b172-9eb6a7a3beb5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:13:55.296286300
+4f9bf144-3c54-43b2-826d-054fb08c6749,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:14:03.417971600
+9a1c3974-c980-4ce3-b30d-03767365136a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:14:03.417971600
+969de6b6-a549-4d9f-88cb-722ba80cd2b8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:14:03.462851700
+6910870c-4de7-41a9-861c-75db890926d1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:14:06.309824500
+6bc22bd3-f146-4191-b726-b3c0e8504e02,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:14:06.366673300
+c1ebd9a9-25d1-4be4-8811-960e92b0bf27,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:14:06.396216300
+c8d0d1d0-a125-4bf5-9bb6-e56ee66e2b77,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:14:09.719585900
+5dc2d332-a370-4fb3-bb4e-f7660b00aac2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:14:09.770973700
+dd91837e-4d00-4d6e-846a-8649d7f31fe5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:14:09.798060100
+9ad5e4c8-0e80-40bb-8560-bddcedda08cb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:14:12.430164700
+0cb84090-8c2b-4781-a362-13269459c823,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:14:12.432160300
+ec920c8f-a560-4d09-9302-4001e9a764ef,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:14:12.452303900
+3c2772e8-cc3d-463b-bc8a-e87ce575f16b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:14:12.492197300
+0b68cbfd-921f-4a7f-8df5-e16ddda32a31,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:14:12.517131900
+2a5dbede-f2b9-48b7-885f-c34e18d8c52b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Semantic Query: Logistic,2025-05-02T15:14:15.867656500
+af69cefa-398e-47fd-83d7-776b091c8071,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Semantic Query: Logistic,2025-05-02T15:14:18.418484300
+16dfd42a-285f-4f6f-927a-ec39128cc387,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:18:06.890147400
+0381e180-8ca0-442f-96da-dda8c1e5adf1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:18:07.336008800
+37b11d2a-1ee9-4abc-99f9-5af54c97cab4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-02T15:18:09.850977200
+7c4243f9-68da-4506-aa8e-c5ac0bba5227,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-02T15:18:12.116318300
+2ab78641-8e81-4603-926f-562dd7a9a77c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:18:17.559412
+dca0ea56-e2e8-497f-bfc1-46572c6011d9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:18:17.559412
+6d111d43-3fd3-4a16-a7e1-30f67b01d1d2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-02T15:18:17.582349600
+0dc77d0c-237d-4a44-a555-f576a4e2f76e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:18:18.123971500
+49f45934-f03f-419f-b097-64f1fa193da6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:18:18.123971500
+306c925b-8cf7-4895-9a0f-9464ab49195c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:18:18.147906600
+0b0a7079-6c87-4b5e-9f8b-040866e70d8b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: Logistics,2025-05-02T15:18:23.571245100
+038a9a28-7374-4dca-a206-00156a8fad03,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-02T15:18:27.369162800
+344db18b-8ac0-441f-9390-a785e73ac0ac,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: Logistics,2025-05-02T15:18:28.407050700
+445cacdf-d327-45a1-8362-b60d21956692,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-02T15:18:32.096323800
+29ef24fd-416a-41d3-94a5-e3a49b4a2bed,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-02T15:18:32.097321700
+b0c6c532-54c0-49d6-97a2-ab3b874f07f8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:18:34.095302800
+f100ab87-5563-4aab-995c-beb8f4ce20cd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:18:34.095302800
+b9809c5a-d9ff-4b7e-b8cd-84fa24863f62,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:18:34.119238400
+94ddf23a-0847-409d-9681-5b9b1dc91fcd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:22:16.046745100
+e3d41c89-fe58-4c95-9da0-4bc8b5c31613,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:22:16.047743
+48f7fb33-0275-4e4b-a8bf-cfb355b5ba93,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:22:16.081652700
+b2ba84a4-00d2-46e8-a096-d02e6ee7cdcf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:22:16.135701500
+9f19751b-c24b-4d20-994e-7ecc3ec0cc46,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:22:16.135701500
+f0b3416a-9ce2-4725-891b-593b761b9a19,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-02T15:22:16.194543900
+826b354d-60a5-4cfb-af35-e0e2057f57f8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-02T15:22:18.407145300
+c5259c55-2773-432b-93a9-e3a22a11905d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-02T15:22:18.407145300
+ff08ffb8-1203-46f2-9eb0-2b80d62ffc34,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-02T15:22:18.430084500
+a8627dcb-34ed-4aae-8d37-a223f9edf19f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-02T15:22:20.131256200
+dc592369-de96-4594-a678-27a4abff22bd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-02T15:22:20.131256200
+b1884df2-b219-43df-bb0a-687bb70720e8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-02T15:22:20.157186700
+555655aa-cbd2-439f-ab39-1b7e36acd5ba,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, Viễn thông",2025-05-02T15:22:21.750273600
+71ba92ba-69b7-4e08-bfbc-704e0a3307e9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, Viễn thông",2025-05-02T15:22:21.750273600
+66764be5-5737-4a96-a2fa-184cc92c8886,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, Viễn thông",2025-05-02T15:22:21.772217
+94516719-8bee-42dd-a3a3-efaf129b50e3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: Mạng,2025-05-02T15:22:29.440696500
+4ed3faae-3015-4b1d-9986-ad7180f2a765,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-02T15:22:32.364788200
+5c4e87f5-71cd-4cc5-9217-93d0e4e4bf8e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: Mạng,2025-05-02T15:22:33.778019100
+c1672dc3-89ce-4081-b041-ffd1188bdcc4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-02T15:22:41.919739800
+6a1b90dc-a8a9-4e43-9fbf-2bcc99a39ad6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-02T15:22:44.848743800
+b58265f0-7202-4fca-8b00-80735990da1e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: Mạng,2025-05-02T15:22:46.521886800
+7989e99b-e94f-40e0-8b6e-e9eb78dc7499,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-02T20:37:19.083312200
+d3af14fd-290a-4dc2-ba43-b5e8fcce8a35,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-02T20:37:19.083312200
+9c09041c-ab43-47f8-8df8-e32b82ae7f61,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-02T20:37:19.148404800
+21cddd5b-4acb-4993-8a72-bb1445dbf5fb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, IT phần mềm",2025-05-02T20:37:20.550833200
+d316e052-a5a4-4a0c-b26f-78ce3c168003,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, IT phần mềm",2025-05-02T20:37:20.551830500
+269dc6ce-9067-41a5-bb34-89e9acc82dde,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, IT phần mềm",2025-05-02T20:37:20.582917500
+e058e778-b89b-4bd0-ba6d-6e001ff63b77,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-02T20:37:23.555338200
+1999f29b-578b-41dc-abcc-065c7783357b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-02T20:37:23.555338200
+a0f7994f-c98c-4bcb-8026-355093c01242,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-02T20:37:23.581792500
+0faf213d-fd57-45b1-a865-18b08c1f21f5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, IT phần mềm",2025-05-02T20:37:24.743218700
+b0783a0a-3714-4873-849b-d17d4625d191,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, IT phần mềm",2025-05-02T20:37:24.743218700
+f7712936-134c-4be8-843a-39ea4c96406a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, IT phần mềm",2025-05-02T20:37:24.770709100
+869b6f98-182e-434e-a89e-06fff651f773,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-02T20:37:28.930901100
+8ac49450-357f-44f4-9db4-1967f292d4fe,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-02T20:37:28.930901100
+817f5975-945e-40cf-829b-7316b0564346,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-02T20:37:28.961822200
+68e97781-9e9b-4d92-854d-96a44c05ebb5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:06.447185500
+2097ba21-2f01-46ac-af01-f19ab65da9a3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:06.516628300
+e1fc9fc0-92af-4e38-b25e-0a6488780fc4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:13.724132600
+ef1329ff-db46-4219-98e7-0ce691e6e5d6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:13.731114900
+c3781906-27aa-4ee2-ac71-d5503df0f4ba,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:13.771007
+88f76633-ed79-4f34-8936-0af64371c9a2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:13.823385600
+9cb5d0a9-db4f-4736-93ff-4f22c2c530e5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:13.826376200
+c0b3641b-d518-4df4-b2b4-85c54d8a87d9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:13.861305500
+8b91b3a9-e0ba-4939-9516-138b76e0d562,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:14.177199200
+59ce5381-6fd9-4333-85ab-c8f6301b71ad,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:14.211107800
+dadbfaba-66fb-4a40-aab1-cbfe50518ae6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:14.588153100
+04f87883-ef84-403e-ae1e-7e19f0962a57,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:14.618072900
+f42a1b3a-952f-4a04-9547-6e9d190cff57,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:18.914190500
+8bb3d161-6e82-4db3-93e6-cccfeaca36e1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:18.914190500
+80b12e65-be53-4a6f-b1ce-f289813c56a6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:18.950094800
+6ce982b7-2a83-443a-8581-3ff61547ca7c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:18.997163200
+c3c9f5c8-c5f5-4f39-bd0e-f386df259ae1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:19.029096100
+89ecfcb2-49ac-496a-8ad2-8bf46b0b8eca,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:23.027371
+2745b40e-6a2a-44fc-acb5-bb29282c13d2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:23.027371
+d8281db3-9231-4725-b1b7-fa70812af706,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:23.070882500
+fda22729-0c05-4b0a-a2c4-95eb99ff843e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:23.116114900
+7a3a1131-b6f7-43cc-af24-d3b0060a58de,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:38:23.151441400
+f41851a4-079c-4a5f-bc45-7092b136a45e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:40:13.117140400
+03c4e6a6-8a11-49a6-836e-527d564c911f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:40:13.119121200
+b1bbdb57-d433-4648-b00a-ef8b48c7ac90,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-08T09:40:13.141062400
+586b7d62-d705-4a73-ba73-b9f959783223,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:40:13.154282100
+67ecde0d-b503-478e-a2e2-b3e66c7fc371,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-08T09:40:13.169985300
+aade53fb-6632-49f1-908b-a6464a2f434c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-08T09:40:15.911047900
+8251b29a-0aaa-436e-bcba-b965b17b3cc3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-08T09:40:15.915037700
+2a459957-6584-447c-b2f0-42adbd43956a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-08T09:40:15.942962500
+3e26b302-c3fe-4ada-91f8-c7604bcc0235,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:40:15.986845800
+ef00abfd-ac12-4edd-87c3-a246cd577392,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:40:16.017762300
+50845161-263b-4ae4-8ba9-950902b67d81,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:43:52.746007200
+704c681e-e858-4768-83ff-b420a6a52861,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:43:52.749996400
+cbd2d25e-008d-4f41-bbe5-027dd810aee3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Thương mại điện tử,2025-05-08T09:43:52.772467300
+d18bcb38-f7f6-40a0-aaa2-0cd19265669e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-08T09:43:52.785429700
+5234ca56-8a5c-4468-ad9e-0e9565740893,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Thương mại điện tử,2025-05-08T09:43:52.801387400
+c6b96d2f-575d-48fe-972c-5433764ffe0e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T20:55:25.404974700
+f1a18275-f610-4d6b-9447-b6adda439ea9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T20:55:25.457834
+4efc431d-8270-4bf3-96bb-9e8d4d7d622d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:53:39.980620800
+84a65d7c-3e65-4f23-9a09-18e5b5a1b743,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:53:39.985609300
+f59a6d33-ec53-4340-953e-2f537e81c33b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:53:40.014530400
+facdb72e-bb37-4dc6-a520-ecf36a186329,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:56:06.124760700
+0b5b380e-e997-4fcf-ae3f-b774519187ec,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:56:06.128749100
+8cf12916-5e09-48a4-9eeb-c321ed166a0a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:56:06.158670600
+74810f4d-184a-4f1a-a7f3-154a0c4a286c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:56:10.376987
+3625a0c9-2b6e-4469-8167-6e033dba2e9d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:56:10.377984500
+010e58df-e0ee-4154-b6d4-f6ede88a753e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:56:10.407903800
+0e3549b0-59a4-4d54-8725-7575c8c98e3e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:58:51.798416200
+71c30baf-ecce-4ffd-a868-928ec9e909e5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:58:51.799414600
+64faae41-959b-4f1d-ad73-cbc840f852fb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:58:51.831329800
+3a8098ac-87bb-419e-b4c0-ce28926bffd5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:58:51.920178800
+1f5eea9f-40af-4f8e-8cfc-144a8533441c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:58:51.921088300
+9a89b468-da57-47f4-92e1-eaabfb525539,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:58:51.953002400
+8dcf009a-80d9-494f-9455-3e31c1466b9d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian | IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:59:02.582431200
+32daaea5-5407-429a-849f-964a32d60ee9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian | IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:59:02.592404700
+d7ef306e-032b-406b-96f5-cde85058a79f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian | IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:59:02.623323400
+a27efeff-ca00-40cd-89d5-5aeb0c282968,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:59:32.487308700
+ec62d9c5-21f0-45a1-9ad6-47596507634a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:59:32.487308700
+6d11f5d8-7035-40b9-93cf-52e15f489daf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T21:59:32.515235400
+5ea92108-1447-45f7-ab17-52573397acca,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:00:24.035725500
+7bcae24c-5259-45ca-a8e3-666c94e3fa8d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:00:24.037719500
+9b4bb36c-82d4-4996-ad41-f1ec3e6ce674,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:00:24.068636900
+efb2c674-8cdd-41e3-8c58-6bb69afa9cb6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:05:57.810862400
+9a8ea322-d67d-4e62-bd4d-5d18247fe9d0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:05:57.811861700
+03c2ecc6-9371-426b-b202-3edea6a9ddf3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:05:57.839968500
+609dca93-363d-43df-bb94-9e613964068e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:05:57.912016300
+552f0a85-c615-495e-a0c3-002098e15f0b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:05:57.912016300
+497c1128-829d-4507-8fdd-a748ab06ac6a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:05:57.941983700
+1faddda5-c188-4790-8f24-f9eb0169fad9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:06:11.133918200
+44c22657-038e-4709-922c-aa157204b8b7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:06:11.133918200
+244f8daa-f3fa-42a4-9be2-d803bc1aa241,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:06:11.166766300
+bb3542e5-9dd4-487e-91cf-4fbb46d37c73,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:06:11.218073800
+03bed23d-f914-45a4-8f30-4ef9ca204dc8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:06:11.218073800
+5c121e77-c610-45e8-9565-74f6883dc423,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:06:11.258003700
+c6e6ba48-b906-4c80-a60e-d91e8785f85f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:15:03.324092500
+fbf8ed7b-0e80-4de6-aed9-16d129bf6f8f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:15:03.325089800
+3fc20d9d-bce1-4281-9366-a75f7d43b6a7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:15:03.358001600
+868f53d1-93c0-4121-9c3b-9030d2604cde,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:15:03.456097300
+dfa4ade8-1b51-42b5-9bba-49a82a0e8e38,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:15:03.456097300
+7ce44fd8-0994-4aa6-87b5-ba22ff2edb33,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:15:03.489057600
+8732e7d7-8312-4b6a-8943-c29162feee58,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:26:07.985971200
+9e39c607-3b3c-4cf4-9ca0-6321e2eddb0e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:26:07.985971200
+359151b2-7473-4f1e-b0b8-9981bc650a3b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:26:08.020877100
+4709de59-40c7-4280-bda8-74053a9528b8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:26:08.207380400
+db38ee0e-a619-4e2d-a770-de8277d8918b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:26:08.207380400
+a2553072-7422-4cca-be2b-5b7d5358646e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:26:08.256247900
+966c0e10-a5c8-487f-8407-a7eb1fde06a3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:30:39.980477900
+6eb77f3c-f1db-4c74-b869-55f787071497,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:30:39.982473800
+5bf2bac9-b42c-4372-9fe5-868f2d989bcb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:30:40.015626600
+28bb6801-eac8-403e-b6b1-fe1ba9c98012,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:30:40.128323300
+8d4d6533-d682-42e9-aac1-27cd61dc7204,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:30:40.130317900
+e85e58ad-c1a6-4b5a-8740-5e02cd25d7cf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:30:40.162697500
+adde5959-70de-40b0-9268-29ea9d3f72bc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:34:07.385161800
+314a17a8-208f-40d2-9e3c-1d6af878d964,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:34:07.386686900
+2d646867-5378-4c63-a098-c2b8ad689d5b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:34:07.421113400
+c2395065-4b97-42fb-850e-fd3c4b76ff17,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:34:07.478344900
+73c5adc6-9976-47e5-b829-f1355e36ae06,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:34:07.478344900
+46f9a005-fb61-426e-950d-0469804db256,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:34:07.518294
+47a856cc-ea76-46bb-afae-de04398485f6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:37:40.788150300
+61999458-aa18-4360-9d48-4029d56e27b1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:37:40.789147100
+75cf7c16-5591-4517-afce-847255db1260,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:37:40.823056200
+fb37ee58-33ee-4f22-af1e-2a815dfaca68,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:37:40.871437400
+2ba92f8f-8d72-45f7-a25e-b60d92c826ab,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:37:40.873432900
+526086e0-b3c1-4bf2-ace5-67362d878f5c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-13T22:37:40.909909200
+ae7ac12f-0d2f-42dc-94c5-0bd321c6127f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44824034,2025-05-14T10:40:15.839982
+3332bdd4-dc13-452d-a8c8-51332e4ab620,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44824034,2025-05-14T10:40:15.839982
+d747275f-8afc-4ac8-b993-facbdadea997,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44824034,2025-05-14T10:40:15.893872400
+21a4f2d3-606e-4067-b0ef-e7c928dfdaa0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 42184549,2025-05-14T10:40:15.960711
+4dfc64aa-93d4-47ee-9426-f922790dac05,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 42184549,2025-05-14T10:40:15.960711
+a393eb54-d059-4594-b3d4-cca490bd6837,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 42184549,2025-05-14T10:40:15.987636400
+5626db2a-6123-4efe-a256-c29bbfc5543f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 37257511,2025-05-14T10:40:16.232514900
+7ac23c8f-b1cf-4ca8-89ae-7311fc7a621b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 37257511,2025-05-14T10:40:16.232514900
+fe80a22d-d965-438a-9877-f115f6676090,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 37257511,2025-05-14T10:40:16.260438800
+23c0251b-4ead-4b03-a7d2-04309cd8c92f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:40:16.587573600
+714e4661-5423-4f64-a4a0-30af48d3584e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:40:16.587573600
+a194499b-d9a9-4489-be3c-7df80094f0e7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:40:16.617549
+69b1ed6a-9fef-4b82-91db-089a6d21e758,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:40:16.617549
+cec8c492-4ffd-4759-b337-be5e4023be28,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:46:49.698480200
+a115c1e1-4ac4-4b93-b3a9-4b00b946124c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:46:49.698480200
+288439df-264f-485b-aea5-f0266d2df7d6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:46:49.724909800
+874b3903-7cff-4f40-a668-f92dd0a4318c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:46:49.794343500
+13a41f72-b105-4b90-b2ab-24f68163404b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:46:49.794343500
+151edea6-81ab-43a1-b793-640626f4fd62,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:46:49.824785700
+0a11189d-fe9b-4ab0-aadf-3c8a20c6f92e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:05.708128200
+0558922a-a02d-430e-98f2-7e75fa346297,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:05.708128200
+0539c2cf-da04-4e61-9639-5bfc01523bf4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:05.740683100
+3b9d0882-ace1-4940-adc4-a14e8d945b5d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:29.023743100
+e80a6376-71ac-4f57-ad9b-723295038d4e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:29.025854800
+7a04d71c-4c28-4672-bb01-0fd1deea4ece,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:29.059588400
+f936e59a-3ea9-4bc5-a328-09403f2c82db,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:29.094493900
+1a0b6c61-9168-4692-a29e-481d4a102414,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:29.094493900
+acec142c-b379-4fe3-aa05-cf6e9e18efdf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:29.123443700
+0661cc42-0ec5-4c2f-96f1-eeb8b8395114,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:39.355270
+6b4f8673-2b4f-4c2e-a2a9-70f9dbf0d1f8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:39.356718
+faf02d24-319c-425a-bf0c-89f0fcd59b22,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:39.389723800
+14d16a20-679e-47fe-a97c-93d9de6bb001,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:39.431630900
+7c853792-0347-441e-842b-513e6963ed08,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:39.432628700
+f8750902-cab3-4777-a65d-902a10776da7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:47:39.468872200
+49b96c6c-4acb-4728-8a10-8b887e5244b2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:54:26.297395200
+3919c4af-4cad-4af5-99ba-e5f1e7f1a7b2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:54:26.297395200
+ff5607b1-820a-45be-a72c-b17e6b9d99c4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:54:26.332337
+dc355c5e-68c4-4a19-a6b5-c192d5887dc3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:54:26.369318100
+6e6da9b2-71ac-4931-9150-b911765482c6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:54:26.369318100
+a6e1d361-0071-44e8-b553-cc4d27f1dabc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T10:54:26.398248500
+9b4e9efa-00e3-4fa7-8848-dc48ae45e057,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:21.903674400
+93ea1522-4104-412c-8094-8862ee24af0b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:21.906666100
+e25299ac-bc1c-467e-83da-2475755df362,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:21.936675100
+f48bed43-e178-4adc-92d5-5de28d746715,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:21.985454200
+7eec8420-5b4f-443f-8031-88a5fd8cc8b5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:21.987485300
+66b12c67-2c9d-40b4-b7a9-51abdd519ed0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:22.018366700
+2e16a016-f8e9-412a-83e3-308493caa26e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa | MaxSalary: 45000000,2025-05-14T11:03:40.369268
+295f00ad-5f1b-441c-8d47-fbf9c19c8453,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa | MaxSalary: 45000000,2025-05-14T11:03:40.369268
+b8e72332-3186-4d1d-a8ac-3c149ba874cf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa | MaxSalary: 45000000,2025-05-14T11:03:40.394190600
+eb96e454-4d80-45b5-bb9d-ba9ca252163f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:43.474279900
+aa85fe84-fcf1-4b8d-a7f9-dde76ca3c99f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:43.474279900
+03cc4f18-d91f-4e6e-a89c-9f7e382490f5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:43.515725
+4344c5f5-adf0-498c-889d-18fd5671fcee,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Thiết kế/In ấn,2025-05-14T11:03:45.508964800
+32b41b64-81fc-44cd-9d82-30d77919c083,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Thiết kế/In ấn,2025-05-14T11:03:45.508964800
+4e520148-a06c-4f9b-bd11-268d5dc64f2d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Thiết kế/In ấn,2025-05-14T11:03:45.530940100
+8a644bff-cfec-48ad-93c0-5bc1fcc0adbc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: Thiết kế/In ấn, Kiến trúc/Xây dựng",2025-05-14T11:03:52.778232900
+2e340a53-bef1-4c77-ba22-31abf92cb204,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: Thiết kế/In ấn, Kiến trúc/Xây dựng",2025-05-14T11:03:52.789202800
+8cd76b9f-cc53-4ec5-be3b-c0d52791adca,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: Thiết kế/In ấn, Kiến trúc/Xây dựng",2025-05-14T11:03:52.808194200
+b5ab2e08-d62c-4723-871f-786e8f38b7e0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Thiết kế/In ấn,2025-05-14T11:03:57.234046300
+e9869c0a-c06c-47ef-98d2-ee495eeef5fd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Thiết kế/In ấn,2025-05-14T11:03:57.234046300
+87cc46ef-d112-4488-9fb0-20ec8331f01c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Thiết kế/In ấn,2025-05-14T11:03:57.254990800
+5924fd8a-d869-4660-8a2a-7dc7b722e352,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:57.800214900
+26fae4ac-6878-441f-ba58-df0d71ddc58d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:57.800214900
+b645a7f5-3087-4852-aaa5-c18d6da0656a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:03:57.839159400
+b37494b3-006a-4f07-9c94-e115493f3eeb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô,2025-05-14T11:03:59.069097800
+50ca2211-dc95-48d0-b5f6-7c48d96c44da,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô,2025-05-14T11:03:59.069097800
+90efd118-a8ca-4580-9a32-cc29b0ca8102,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô,2025-05-14T11:03:59.093033500
+3eb8d48e-f6d2-4785-8a85-bb09b0f65684,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô,2025-05-14T11:04:06.161630700
+b995b94d-9706-4200-8c0a-2fe6afeb034f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô,2025-05-14T11:04:06.263101900
+0fcdb94d-6c70-41db-a63a-4da53b7ed816,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô,2025-05-14T11:04:06.283047400
+412aa914-033d-4110-9df2-b6279ec8d4c3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô, Tài xế",2025-05-14T11:04:09.530976800
+76321f82-4f5e-4c04-bd45-29b5a426bddc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô, Tài xế",2025-05-14T11:04:09.530976800
+c35b2205-7b7b-483e-a402-83b28df07290,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô, Tài xế",2025-05-14T11:04:09.552918700
+74489a25-0349-4d81-b4f6-b3691b9cea48,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô, Tài xế",2025-05-14T11:04:09.616262
+a1ad5826-42ac-4512-8d30-9fedcdbbadd0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô, Tài xế",2025-05-14T11:04:09.639199100
+ca0975c2-dbba-447c-8336-ce35cbff07a1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô,2025-05-14T11:04:09.974986500
+6598ea33-88c8-4433-97ee-b44aab47cfaa,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô,2025-05-14T11:04:09.974986500
+da57a668-9ece-4858-a4d0-aa717ff44944,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Công nghệ ô tô,2025-05-14T11:04:09.995456400
+9c97babd-dcc3-4691-b1c2-77724bf2dbe6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:04:11.279992100
+4950e173-b575-4033-a0fb-bff06ad0eaaf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:04:11.279992100
+717df975-693a-4963-89bc-3298517c5bc8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-05-14T11:04:11.306919300
+2bfe31f4-4af3-4802-83d5-dadaf9f7b2cd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-05-14T11:04:12.548390200
+7790b0a5-ddf2-48a4-8495-b76e89c340b2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-05-14T11:04:12.548390200
+46b1a285-04aa-4732-a0db-503fd11dcb4c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-05-14T11:04:12.572326100
+0900abaa-a5dc-4934-ad09-b1d21e18640a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-05-14T11:04:18.558327600
+a731f99b-a802-47b2-81a9-8b28a2985e4e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-05-14T11:04:18.611190500
+e5eb240d-59b9-449f-8ccb-a2b7049a9064,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-05-14T11:04:18.654085300
+8055a7af-798a-4d2b-90ab-24a2099992cf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:11:13.201363800
+308dfb19-f173-45d3-b8a1-9a126294f639,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:11:13.252227600
+79571b11-a9f4-4191-9668-47589f989cba,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:16.928497300
+dfbd58a6-ea9f-4ac8-afb1-4106303be4a8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:16.928497300
+43c93982-cba2-4a84-8753-dcaa1de2b859,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:16.969390700
+210a5e5a-9ecc-4089-bada-41acfcbc9030,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:19.586698800
+cd2686ab-47c8-409f-a85a-b9a2ee5835fb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:19.641551700
+dadef39a-f712-432f-8a85-5086cbe5b713,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:19.675461300
+3ccfa8a6-a485-48cf-b2a8-48c6cd109ce5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:21.293863600
+01061035-0198-4c50-910e-167ba4e2c410,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:21.352716300
+da113425-6434-4ddc-9b24-7ecfd964d1c4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:21.381634600
+003509d0-8cda-4b5c-81ba-ac5785f55601,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:22.727104700
+a4f0c01f-422d-4c89-978f-ce9299e21adf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:22.777501300
+44ba2625-ae0f-498e-901b-9c67aa9932ff,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:22.803434100
+cbfa7e3b-4f62-41ba-9168-6592e4e1d137,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:24.243864900
+e0f0c1fc-b335-45b2-a8c6-2d9ce9094333,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:24.298734500
+8f57c7a6-0440-4f68-b2ba-204ac7c5260e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:24.327655700
+9eea1a95-0884-4601-bf30-a0d688ddf0c2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:27.490906100
+b750d44a-e904-4d76-a636-e1ebbdfa28b3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:27.496102100
+3a0b8da2-6fc0-425f-9bf9-837affd97e82,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:27.528804400
+54afdabd-56a9-4a24-b6da-2850cef4b01d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Viễn thông, Y tế",2025-05-14T14:11:40.926699200
+7c2aefd4-c302-4d38-9089-2feac52d8536,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Viễn thông, Y tế",2025-05-14T14:11:40.926699200
+84423c50-8a9a-4b61-b388-32cea2d5a34e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Viễn thông, Y tế",2025-05-14T14:11:40.953822400
+511d1b0a-3446-4794-902d-b361cc38a6d8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Viễn thông, Y tế",2025-05-14T14:11:40.994526800
+782b0681-9149-4416-90b3-34f55eaac30a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Viễn thông, Y tế",2025-05-14T14:11:41.021661
+e3cdb69e-9606-41f9-b466-35386025d61a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:42.718330400
+4b0b4cf5-ba05-400d-be03-87779d456fd7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:42.718330400
+70ed9931-d3cb-4700-9e64-0a15d26a3e3e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:11:42.746509100
+9e7c70a7-d0cb-4e0c-af55-ac3fe94d9314,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-14T14:11:45.397891300
+7c5c23a0-b8c7-4de3-81bc-86633aea0805,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-14T14:11:45.397891300
+4526c6e2-2857-42ea-ae39-0eb18fd4ea03,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-14T14:11:45.425817200
+4a82370e-81d4-4041-b3c9-af6c232d54c6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian,2025-05-14T14:11:48.578087600
+617a4216-8f0b-47a9-86df-0b2517e5f0de,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian,2025-05-14T14:11:48.578087600
+f17c3d76-e21c-4e21-8d21-c253d0187708,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian,2025-05-14T14:11:48.619691200
+cd5ca9de-3c6d-4203-a843-c493a6a36696,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kinh doanh,2025-05-14T14:11:57.059471
+c6151d80-132f-40d4-8821-6b1f6e9af6be,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kinh doanh,2025-05-14T14:11:57.060083900
+c3570189-538c-44e0-adbb-944d3e58b8f0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kinh doanh,2025-05-14T14:11:57.096426900
+dc4a6037-0862-49a8-a5be-fe8c7db74d24,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:12:03.410171500
+3c94a45a-8af2-47a2-af5d-0ed88dedb0de,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:12:03.419641900
+f3eaf210-a327-4f5a-bd8a-750cdf4c5311,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:12:03.435673200
+6436f590-37b7-4ebd-b861-63c3dd04ab6a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:12:06.134777
+641828f0-8ef0-4f4f-87b6-8b0421fd8943,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:12:06.183645600
+dab2e5aa-0f8c-4d71-bbe2-3abae9094bdf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:12:06.211468700
+2e8577c5-bc1e-46db-abbd-ed98f7e0032a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:14:47.116600700
+ccf29dbf-6e68-46d5-9809-ec65a62466d7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:14:47.165922400
+7d002c8b-0c26-4b18-9aa9-1a05f1adf84e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:14:47.192852
+6d78e7fa-cbf6-40df-93ce-8734d5bdbe53,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:14:49.168202700
+8b476181-90ef-47c9-ae2f-db552fb5d45c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:14:49.223056400
+e0f92234-55cb-4740-b730-b3dc0a94b469,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:14:49.257030700
+1f54ad71-9327-4084-aa4a-bfa5df7a5eac,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:15:27.642127300
+b69a7a31-0207-43f2-af8a-8a3e44dafab7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:15:27.642127300
+d2978d0a-3e22-4fad-b4b4-f0f327928b18,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:15:27.670628600
+7697d2c5-c3d9-4276-a15b-db85ef8fd2a2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:15:27.778776600
+7cf74f82-9ebb-49fb-b92a-fae4331ec8b7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:15:27.781825500
+74edf339-1ebf-40a6-a0cb-8870e9c58fc8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Kinh doanh, Tài chính/Ngân hàng",2025-05-14T14:15:27.815900800
+34b3e4a4-7972-40b3-b402-12d4bc0c5279,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:15:28.177684900
+69df17cf-9249-4a93-823e-01d702a6d6c7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:15:28.202618300
+f74300f0-ad91-40b0-ac92-7b1e81d372fa,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:15:28.591568900
+74ca6804-dd5d-4ec9-ab1f-c32d18e04aab,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:15:28.616775700
+b0253859-98ea-4b26-a3fd-cab3ec0b2e0b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:15:37.215998300
+82878fcd-ea7c-41b8-8ae5-af3733fd08b6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:15:37.215998300
+52ab0772-bc8b-4649-b6df-cfa91d8db11f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:15:37.242925800
+472ec567-e296-4887-80bc-308a191dc6d3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:15:51.064255900
+b985883d-ba23-4f47-8688-f10b79d18105,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:15:51.114141700
+99edc8ce-0803-4fc4-a8d7-f17ccc8ce925,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:15:51.144061800
+a1ce101d-a824-41ee-8323-dc4ae5616866,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:15:57.604168500
+72acee31-6153-491c-8ff3-c56452983e44,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:15:57.666004200
+baecf29e-6e01-4cf4-ae0b-34e96869d8fc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:15:57.690936500
+e4b7b671-6e6c-4677-9f27-16ecc68535d8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:26:12.364640100
+9714a9c7-0fee-4d85-9620-08adfd0079d5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:26:12.364640100
+001bd05f-f94e-452b-a90f-40ef7ed447e7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:26:12.397940400
+6d9f5121-3b62-4ef2-afa3-ac64f91ef8d4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:26:12.532729600
+d131e492-d092-4979-b4e8-1fa3dd909133,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:26:12.532729600
+5d3a709e-72fa-447e-afcc-dd8627e91780,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:26:12.565642
+f441d9bf-863a-43cb-81ce-b8989877a09a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:26:12.798425400
+3ca57170-f788-49ad-8ad3-c83f385d0b0d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:26:12.829343
+657c448f-8522-4b36-93be-8509652dbefc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:26:13.211552400
+a0ed629a-167c-4693-9601-ca26da6833e4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:26:13.239478300
+96d55f68-47c9-462a-bf25-9a2fd80e3f35,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:26:18.110302300
+bf8dec8b-ad8f-4027-a4ce-90317d683df9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:26:18.151192800
+3f5c5336-4823-4598-83eb-07ce4f63288c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:26:18.177124200
+581a80e0-ab56-4d96-9b2b-db290595ffd0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:21.276589400
+86ad2d96-596c-4032-8c35-d19880246272,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:21.278586200
+b2b55116-2be3-4467-bc5f-bfa378d9c479,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:21.304516
+d835fc63-9793-4e5f-b937-ff77e956da21,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:21.373108
+4a1a6653-d405-49c8-9e6d-e881b08f9df9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:21.373108
+a32961e9-749a-42e7-8ace-ce06176bfdf7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:21.403026900
+1ddc94fa-ae52-496d-84fc-6e3f1299e137,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:21.907970500
+18f6db9c-739f-4231-b74c-064178c7163e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:21.934509100
+be45721d-a1b9-4668-8645-dec65ff980ca,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:22.653312200
+878c9c36-8900-4fbe-9240-1b4bfa7e42ad,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:22.683232400
+8dcc1576-2f45-4c25-a173-f8f419a9a917,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:47.264670100
+e4298a3b-28c2-41f4-a76b-6e8483a36636,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:47.268659300
+0e2396d0-89f2-411f-8dda-81f934ebb6ee,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:47.295590600
+b0d38e18-750d-4bf4-8109-cc61d837b938,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:47.342221900
+007058a1-acba-4269-9921-be1c1ed09747,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:47.342221900
+98dbb4bc-fc8c-4366-972a-16d228f66e1c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:47.381905800
+aca7e0ab-f5db-4b46-8823-4d03ea3b623b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:47.868516900
+17997472-1d27-4b85-ac92-33eb704acb64,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:47.900431700
+69e31fd2-68d0-4d40-9b77-4f8d300ca9d7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:48.370312400
+d1bddc83-afcd-4653-9fa2-4c6c9dd59db9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:48.403224900
+b5b9efee-d427-4554-9ddc-d10f0606929d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:52.454996100
+4c65b4ed-ad5b-4afb-ab97-83643b6013b1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:52.521818200
+071c04b8-0311-4df5-8214-60b6224619b0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:30:52.550740100
+f650bf82-d31b-4e9b-83e5-dc94836d6c77,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:34.584441900
+dd6935b2-a041-4efc-a5f9-cfdd26be82fd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:34.584441900
+76e339c6-e8f4-41c5-b2d5-f5c0997123dc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:34.610951500
+df6ac96a-07a9-4b89-9342-c9a783e226b6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:34.711731400
+9a021744-ceac-4729-a834-472b4d11df75,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:34.712728700
+1c0b79fb-8df4-4b0d-93bf-2ac58e4ce71b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:34.745887600
+3d5cb2b3-5b30-4a87-a822-f04bdaadc841,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:35.009667300
+a1e814f2-8b80-4d27-bc29-55f876a7e69e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:35.038589800
+384b6859-c2ed-44bd-9a00-43f258df0d0c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:35.436775
+c7538be9-97b0-4540-bf0b-4ec114d6b9c5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:35.464701300
+c759e745-400e-43f1-9164-19e3aef93ba9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:59.060299500
+797b8164-d434-433e-adf3-e116872fa28f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:59.060299500
+f40cd8a4-3c8f-4252-b10b-7ca8176cfb88,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:59.109650600
+af1ddb72-cd40-4946-9b13-b223c34dce12,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:59.151878800
+2fa6c61c-9f15-4f23-bf44-8237ccc2c363,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:59.151878800
+6937fd14-bdb0-4adc-b6ef-32ef35e60ba5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:59.176812200
+c1cb8952-c1bc-483b-af5f-6c1a0c76a08d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:59.432654900
+6600e8a2-d402-471c-804c-b7662c53eb1a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:59.456608
+c8fd743d-84b5-461e-b181-9e940c342d11,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:59.848478100
+dfa7d519-aa27-43c3-888c-9c0772285056,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:34:59.873411100
+5cdbd3cc-7a59-4d5a-9f17-2ae50cb43741,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:11.132625200
+a8a8f3ca-ec58-4699-bc06-2544e81882f5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:11.135616900
+7d54157c-0139-4b09-9b7f-f187dc2ad9be,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:11.163676300
+5898c579-6e9a-40ba-bd72-9be06a75de3d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:11.205528600
+5f309b08-7b26-4184-8d62-295311d68f6e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:11.207522700
+16ce61c1-9f19-4e82-97f5-376764b7411e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:11.237444100
+4959bb6c-d208-4f73-9787-a12bdedfa419,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:11.497051600
+387b52e7-bd96-4f71-8b4d-25a6b30df43a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:11.519990
+a73e60e4-6d1b-49b4-bf2c-9665704e9e7b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:11.903698400
+eb02d61f-bffb-44c0-8ffd-efd399a9f658,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:11.926636900
+d673889d-0613-4bd3-9a84-44197eb3c55b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:23.872683
+26de6e3a-1283-463c-887c-8efcb423dd20,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:23.873680600
+a04a0689-cef2-42e2-b4c1-1af1bfd7a62b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:23.900654500
+01055c68-2d95-4d03-92ab-70ce2f2934ec,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:23.946444900
+e3dec7ac-ca27-4c54-80f3-687f8bb6ee3b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:23.946444900
+30b3d8e4-688d-4b04-8be8-71935e8b517e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:23.973371900
+20f56821-539e-489d-97fd-f3bdd75cd76b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:24.239653400
+5e0d00e6-e726-42fb-b9d3-8551b8fe8735,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:24.265584400
+04da5039-76a6-4277-9713-74a7fdeafc59,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:24.643471900
+5de1cc41-9a20-4d2a-9d79-606cc611f4b5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:24.666409600
+e8df7e01-36ba-4c3c-8521-2983273229b4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:34.646812900
+3e37c509-3c16-4870-b2dd-333b3d1675f6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:34.703661700
+5a0fd784-b55c-4946-bffd-05efb8c9d973,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:34.725601800
+d7db11bb-fb62-4bfc-9ec4-ef007eea88e9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:36.047607
+a6f6c6dc-5628-412c-beb9-3d277d600d31,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:36.097800400
+8a11df7e-0a9d-4ed8-b8a6-b95662d38195,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:36.120738300
+bca7b7d7-5580-41a7-aee6-90c9205368e6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:40.050934600
+d64ed8b3-1b17-43e7-8848-c6fa9523365d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:40.103793400
+0e497027-f124-42a7-ad72-30f9476d0f00,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:40.130741100
+217a01cc-800c-4f69-8825-c2fea0fd91fb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:40.214537
+e1f66774-eb54-406b-9bf0-31b6d19a9e06,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:40.240468
+eeb408df-7771-4899-9ae0-cf628de9cee1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:42.844884500
+8dd520e6-4323-495a-be86-54969c7a2559,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:42.898877500
+e85c1076-9b9f-4b2b-8b78-ec5eb3917d61,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:42.922826300
+0ca00eb3-781f-429a-ad30-44179c6ca39d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:45.742635500
+5dfceb3b-e4fc-4cf0-ad3b-17d1c12537a4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:45.794666500
+472bc4b9-8fb9-4bc8-99f0-761f2d54041c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:45.819598900
+cd746463-3e6e-4df5-9f73-3338a34e2b0b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:50.536478400
+76d6718a-d93c-431b-bf5b-e7a24bf50126,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:50.596333600
+c83b3277-8f72-4ad3-b8e9-dd0af1cb1d20,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:50.618275
+2be8658b-2c96-4837-ad7e-1da72fdf7a98,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:52.967091300
+bb707cb3-ce27-4d31-94de-6b06e1dc4777,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:53.019948100
+ac48cc42-03ac-42a3-be2a-0a1bab215438,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:53.037900400
+dc9f133e-ac1e-4308-9d75-81e88030317a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:55.455664
+34b40e5c-b7ec-41c4-81c9-a40b10e22215,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:55.505062800
+c9e3f8d0-b9cf-43f3-b929-6aa13df37d42,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:35:55.526006900
+d7201c52-1728-470b-a588-941171d8d341,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:35:59.639578100
+773f6c20-5553-4e91-b89e-752f0b00dce8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:35:59.643068300
+a3a8f300-4c96-4ce0-96ea-e3eda2826096,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:35:59.678971400
+b4480a23-c05e-430c-a945-4b43174259f6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:35:59.698918100
+d3b7149f-a14b-4358-8554-ea1496d96c41,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:35:59.729868200
+97f34c10-4f16-40fe-9191-feed9877c3d5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:37:10.324549600
+f48b4e01-26ab-4602-bfe0-112aff3e3aac,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:37:10.325556100
+8aa7a124-2483-4f08-9235-d014ed5e9ce1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:37:10.357451100
+a19673de-a0c2-4196-8ef3-daa44e6557eb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:37:10.461464
+4152c473-c306-4674-827d-b9378f2b7b2e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:37:10.461464
+13b9101b-f2f6-471a-bae5-1ee4c303623c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:37:10.491383200
+4efb8ca5-6aca-4b92-a068-f18924a131ca,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:10.756569600
+4c0610ff-7283-4b61-b413-b5120d0579ab,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:10.779521200
+d04fe694-5c7d-48cc-8061-8bd9f5631106,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:11.186627800
+07fd49fe-582b-4546-a196-e9be8d87de9d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:11.209574900
+e7bdf3e0-f882-45d6-b1c4-53966220d73e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:16.079535800
+5c419e33-19ee-41ea-9d39-a1aafa4849d9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:16.131021100
+5d151da7-8e0a-46c2-99f1-875e85aebd35,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:16.155954800
+d38f9e2a-6cf0-4791-a025-b2afec51e669,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:52.680462600
+62d2ef90-93fe-4477-939a-b6b8adce6181,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:52.682457800
+6472fffa-9575-4d59-9db8-37e3ea360ab8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:52.709387200
+62f1d363-1432-4072-85bb-fc125d20d454,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:52.756858100
+8f6fc0fa-3ca4-482e-b5f9-0dface40f5a4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:52.757855700
+3c58f6b6-2ed0-4911-a8e0-4071363a92b5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:52.782441700
+0e82ddb4-bfca-472e-9d98-692e3f73aa48,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:53.055669800
+5cdca8c3-ad87-4659-aeb4-6f6cabd11b53,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:53.077611400
+1b660d21-2d37-4907-b637-6b78f6a3902d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:53.447198
+aa455ef7-a459-4508-99d4-05d406598e95,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:37:53.469140500
+925698ea-800b-497b-86b3-644359da6d35,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:38:00.855362800
+86a562ac-4e80-4e36-a9af-e2286210e48f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:38:00.855362800
+c3ab3462-57d4-4ce5-81a4-682d5e7de827,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:38:00.885739400
+b7f0a9c2-aa87-47ca-b494-3ffffce026bb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:38:00.952380100
+ace65942-3cb0-402f-915f-2e698ac37c29,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:38:00.952380100
+ed605460-34ef-4032-9f38-01b08b5edaf9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:38:00.982697100
+720eb758-bfc9-4226-b798-a8101c62507f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:38:01.258664800
+697566d4-5a20-4bb1-802d-cf64e0ddd461,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:38:01.284596200
+b3b64651-b829-48f3-9be7-efe3dcf184e8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:38:01.714507400
+bd4cd33d-b98c-483a-84ca-5d375fbac0ae,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:38:01.742433500
+02006c2a-a980-41c6-ba67-67e2901d612a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:42:30.771333800
+a8e17f24-90b4-4ff0-8170-1ac8de155c94,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:42:30.772405500
+221f0b80-fbdd-4de2-9524-4e44c762cef0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:42:30.798784600
+14f0ba1f-c750-40a2-a39c-96e27a6b914e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:42:30.907980
+f8be87c5-951a-4ea6-8459-79d9cdecd6b3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:42:30.907980
+dd6f1344-1653-41e9-b618-7cbc27f5ad5d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:42:30.935968400
+f984fda6-0e45-427c-8eac-bcb6ab5b25d9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:42:31.377366300
+f173621e-68f0-42a5-9e7a-b64951ab08fa,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:42:31.407367800
+2545bae7-a214-4d67-b98e-0775e6df69e9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:42:31.936079800
+b302d007-e921-40e0-93ad-207cf61d1375,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:42:31.965451100
+20db331f-d2ec-4bbf-b325-f6f81de1af69,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:25.698898900
+1c731e42-df2a-4c60-a4d5-46f26c112340,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:25.725822500
+e66f6df0-a4f8-4256-a618-3ab968071841,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:25.749300600
+eea4e79b-1678-40b3-abc5-a0ff8ccf7344,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:25.843551600
+5ec7316b-3651-4ea6-abb5-f652caa267b8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:25.846546100
+f75971a3-44b2-47d5-a21b-cc7ce88acc10,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:25.872473600
+590557dc-de82-4187-a5fb-c223513094df,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:26.191883200
+0ccf52f0-1ee2-41aa-a41b-5da17195c509,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:26.215819600
+b70a96e4-aafa-4bc6-8c15-4dd827eb35d6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:26.682562800
+d261bf9f-c17b-466f-a12d-61a92d241daa,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:26.707495
+efc01816-03bb-42ce-af88-f074a8f721f3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:34.850429200
+d0b90e86-0026-4275-9013-eccdeab3e715,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:34.852426700
+54bc86aa-fcf5-4e8c-85cf-de384919fc81,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:34.880374700
+dd965da9-620c-437b-80c3-604c4412713f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:34.930705100
+2c959ca1-26ca-4a73-9f38-05bc53fcd6ad,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:34.932700500
+8842d0f9-081b-4614-873e-4d042e93fdce,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:34.958640200
+9160b12c-a4b9-4929-b462-4b1165166960,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:35.255414300
+5798d2cf-d500-4bcf-aee3-ca6f39a03c65,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:35.282342400
+c6a863c0-db1d-4e44-9f51-dacbfa9dc47c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:35.685438900
+7d8d3453-383c-4c81-a5cd-195047773eef,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:35.713364300
+ee9d1f6c-ba2e-4cef-8e4b-18a657e1cc38,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:46.513296100
+87d0239c-635a-493d-be0c-f99ac97f9f24,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:46.514293600
+a28d3138-5cf6-4516-83d6-8b9929aa5d85,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:46.543572300
+9d025adc-5b72-4f79-a107-b2fd3343e78e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:46.605992100
+d989766d-5312-45bf-95b4-146fe38ddffa,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:46.606990500
+b5003340-63f2-4678-836c-4d42224e6b67,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:46.630470700
+fb2fcfa1-38a7-4922-9a3b-85c2909c02d8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:46.902424100
+812b02a5-bcb7-4ef1-9c60-fbc9660105ee,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:46.924363300
+bd3ed6a1-b466-45c2-afb2-5a9c457ec25b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:47.297204200
+2707e90e-e707-47cf-b2dd-bafa5a86dc50,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:45:47.322138100
+72b7ea38-52e8-4175-a722-7575ac5b3bbd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:31.199619400
+5878e3f8-93a6-4d34-bb62-38a9fc4d99e1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:31.201614500
+7780bd57-2aff-45f1-9663-10eeed4210c8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:31.230535900
+22f49702-fd5c-4f83-aafe-899b68dbd2e6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:31.275416300
+1194aa11-6a1a-4311-bae4-b1b55a85701f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:31.277411300
+d0b3408c-1060-4730-8f7a-27c0a8fd1ad8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:31.301346600
+390ccbec-592d-4a2d-9f5b-eb469c35a62b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:31.579012600
+c003f938-4e53-4d7d-a8f4-b47fe5ea50d3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:31.603936800
+fbd80d9e-d420-4ba4-a808-0ac5af959f90,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:32.028067
+ec23a520-124f-48db-947f-edcfa8922ad3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:32.056509900
+76c983e9-f9f8-4729-a870-c6463665b369,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:35.807192100
+5ae49946-d0e6-4f03-ba88-36d87bfacbb5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:35.864032400
+daa2ad0e-f9b6-4f99-8a50-26b60b7a1b62,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:35.888966900
+fc8e5158-dfd7-42ca-9685-0dbd53614c6a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:38.478316800
+116b03ee-e8e3-438f-85a3-c089355fc304,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:38.525376500
+c4dbc860-2744-4621-8f83-2cccdb3bc360,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:38.550680900
+b5e3c01a-91bc-4e0e-aaa9-31ba39a708d8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:44.841989300
+1e8e77d4-13e4-4c97-a857-e6211f72ade3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:44.893503600
+900502e5-1b4f-40f3-a444-51135f23e091,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:44.919449400
+b0a7b105-0ff2-4a52-9a0c-794e1202ff6d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:50.132395700
+609121a9-4207-4154-bfd6-bc239a36b29c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:50.175281100
+157a9b50-b8d1-4f68-8e93-07f86c6275f0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:50.194231
+d4b4d449-0528-44c9-96c0-4c177c72f71f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:57.128042700
+76872922-901e-4d6d-976b-feef82f266cd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:57.173489400
+f511e0ee-a38d-4103-a703-d911021f1619,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:48:57.188448800
+8ea57de0-a946-4bbc-9bfc-49deeeed1b8f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:49:00.315319800
+365fec88-9526-48d4-9696-90cf3987285b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:49:00.366194100
+6d2a2841-b63d-4ce1-bfd7-2b49b6c64025,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:49:00.391127800
+6e2d9a9a-9638-4d4e-a67f-95c95603f152,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:01.859537400
+ad7e805c-60d7-4eac-bf2b-2a7326fce3e8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:01.859537400
+56e1c44d-0d45-4e2f-993c-0e59c176cafd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:01.885467900
+6b57e242-11ce-440a-8d7a-6e8f1210adf7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:49:02.572417300
+c7f97d0c-f717-4660-a6c2-3a6a475c0c8e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:49:02.572417300
+f3726906-220e-4fc9-8ca5-3fb13d6ef152,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:49:02.596352300
+d5125f26-b876-4f27-b2b2-e93017f405e0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:11.744184600
+26a58b4b-529c-4a8b-80f5-9da1154afd22,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:11.744184600
+82282fa4-83dc-45eb-863d-c0c8383469e8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:11.779090800
+41e51b2e-3e8c-4c3a-9c3e-8200952af659,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:12.534358100
+18f13c61-164b-4499-8755-fcb9ae3d7575,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:12.534358100
+8be85e2c-d903-46b7-b228-1955903b5cb5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:12.553384
+20f2e31a-f0cd-462e-9602-85cea34e7912,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:19.945549900
+6d6ed7ea-db50-4b70-94c4-48c3474ad9f1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:19.996441800
+8ffcd8b8-8f0c-48ef-b6b5-cb6ef711e2d9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:20.017385600
+f3216777-9bbb-4958-be0a-52a0f08378b0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:27.046382300
+6f923c8d-678f-49ed-9c55-f1ab968de2fc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:27.046382300
+b4776a92-8958-4097-917c-007b3c974760,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:27.067131100
+78c22b10-d2cc-408d-b973-c69bc62cf481,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:27.101555900
+3e265154-0770-470d-8397-6afd9d9eb19c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:49:27.128483700
+c358a8f9-91df-4dc7-bc09-b1cc4e8615c9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:34.110249
+6f84f60e-c7d2-493f-b29c-d2a5bdac2c53,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:34.110249
+c668cc51-349e-4faa-90e2-eca3f6b94cf2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:34.128260900
+fe92fe2f-76f5-42d0-8c78-dff57f015fdf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-14T14:49:44.877213700
+5da6e9e0-4752-4b50-b71d-ebc2eca06f54,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-14T14:49:44.936551500
+e0fd148b-1d4e-45fb-bc1a-c41a1c57de14,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-14T14:49:44.956498500
+b2e1368a-1e7b-4952-aade-41ff6baaee31,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Lai Châu | IndustryNames: Logistics,2025-05-14T14:49:51.937561500
+7d7c8f67-f681-4320-bf9b-f647593be108,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Lai Châu | IndustryNames: Logistics,2025-05-14T14:49:51.989425
+73d8d476-306b-46ce-b7d6-d2da2a4cfc85,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Lai Châu | IndustryNames: Logistics,2025-05-14T14:49:52.001390800
+a326dfd2-f4be-4a65-8adb-7e3fbb46f59b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:57.101227300
+86c25a1c-f07d-470b-bf80-b8f3c4b7e59d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:57.151609500
+331c6cf3-683c-43f8-a957-71ce9ea7795a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:49:57.169561200
+b85056f9-d64c-4b65-98a6-512020afc601,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:50:01.746126900
+a746664b-822a-4fcd-944e-19ead3df5ad0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:50:01.746126900
+0a2444f7-484b-4fea-adf6-c790f1aafb42,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:50:01.768068400
+f0be70b4-abff-4d80-a492-0d22b93acb67,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:50:01.814001
+939fe2ad-0c90-42a3-a649-4fee15bb23d9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:50:01.814001
+944ad765-055f-4249-aec2-97074fcac493,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Logistics,2025-05-14T14:50:01.841916900
+8d3c5c87-1c6c-41b8-89fc-a68c330624b4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:50:02.113224700
+ec7219e4-4505-4c9d-a875-f6bfd680d0b5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:50:02.135181
+6f58e38f-7757-45f2-b699-2efa5c6027d4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:50:02.489282500
+67986675-c194-4d2d-99da-8c667784d41e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: IT phần cứng,2025-05-14T14:50:02.512220600
+8c708fc1-3ef5-43da-a18d-e16300803320,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:05.115331100
+b38a4341-b670-4858-828d-d69467733952,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:05.115331100
+b477ea57-20ce-48c3-8984-c9fc521fcdda,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:05.142274200
+4b706918-1132-4f23-960e-7202c12840e4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:05.797235500
+f960e198-00a7-41fe-8c95-bc0481deb49b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:05.797235500
+b32f613e-f796-481a-808c-5b8151413226,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:05.818178600
+4eb4934d-c44c-4dd0-8802-5f71bc54b4cd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:21.292279
+6e60e1b5-36ee-4099-aa6f-228365c4f51e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:21.292279
+5b31a679-6e54-42c9-aa4c-ceb40b763369,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:21.320204200
+16126309-8deb-4e60-9a3f-f70a603fc42a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:23.379794700
+40cd2036-46bc-45b3-98e9-ea515b6560cd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:23.380792100
+a73b000d-27eb-4899-bcbf-492d776388c5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:23.400738100
+b9a5e747-731e-4e85-a38a-53b93685fb34,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:35.520925400
+e5b67050-09cc-4440-92fc-4a9b37d61018,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:35.575781
+efd02ab7-25bf-43f7-9a22-000156b4cf9c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:35.596726500
+022b1065-a3f3-4961-ad34-82d49d1e299e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:44.281678600
+06fa8c6d-0c89-49b7-a545-0c8c41ae661d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:44.281678600
+c809cd14-4693-4033-aa69-b8b878cb24bd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:44.302621300
+017de765-8d25-4c4e-865f-ca9dfb7e4c47,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:44.339522200
+09df1656-959d-4691-abec-66da5ed02681,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội,2025-05-14T14:50:44.366459800
+c4543af3-9ff3-47ec-be30-eb9bcac3fb2e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:45.055426
+5444e855-fc81-41b8-b232-6c4c39e34fe6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:45.055426
+14b32990-9b25-4114-9a0a-f447055068a2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Nội | IndustryNames: Viễn thông,2025-05-14T14:50:45.077367900
+d35ffa86-8807-450f-b4ed-4d553da24ff9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:50:58.277385400
+864d7747-0b6a-43a1-aece-2ae9f1afc147,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:50:58.332238
+21a2d596-db25-4ad0-b15d-3867c1c59f9c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:50:58.352186600
+23a640d4-3584-442c-8544-ac58c75a1ca9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Giang | IndustryNames: Viễn thông,2025-05-14T14:51:00.706663500
+088c0391-6b51-466a-81f1-bbc15f7a1002,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Giang | IndustryNames: Viễn thông,2025-05-14T14:51:00.757667700
+7fd281df-d6a5-42e3-822b-84c4f7dc6390,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: Hà Giang | IndustryNames: Viễn thông,2025-05-14T14:51:00.768638200
+ade6f0dc-0189-4777-8bae-129613a6cfeb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:02.105560300
+7f7398d9-420f-4b09-825b-969d309d59f3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:02.151436800
+c6f0a5df-a2d0-4707-ab6d-e0563705add2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:02.171383500
+cf9cc8bd-d383-473d-b3ce-80ecade2767f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, Viễn thông",2025-05-14T14:51:09.997278500
+0457c34d-7ecb-43e6-84f8-c7763a2e1600,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, Viễn thông",2025-05-14T14:51:09.997278500
+0ff354f3-acc2-4e33-b58f-5c89576ef653,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, Viễn thông",2025-05-14T14:51:10.016245400
+2fdac8f7-3258-4829-bb56-fce7e6e2b3fd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:11.913387200
+2bccec10-06cb-4b57-868b-e136731353a2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:11.914385
+117daad2-fe83-48e5-a0bf-683fbdc0c729,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:11.938321900
+88be8203-753c-4840-9806-253e77554ebf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, Viễn thông",2025-05-14T14:51:16.031516600
+885c31a7-a25c-4896-b614-43a02f432c5b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, Viễn thông",2025-05-14T14:51:16.031516600
+0344fae5-f4a8-43c3-987f-3c42bf1f96b6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần cứng, Viễn thông",2025-05-14T14:51:16.051497
+22005919-0dc8-4d80-b50f-b06f8c6b1017,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:16.498323400
+c5b0d9d4-c7f4-4f2d-b2fe-7f8f007a7c33,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:16.498323400
+6d15e3ba-8cbc-4be6-9de8-0729ad4a3915,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:16.518270200
+25ad8911-ca4b-46f1-9b4f-07d24f99eaa5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:26.087843300
+efefa677-aaad-4e89-86b7-21118c5eb505,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:26.088839600
+9c18b0d3-2f56-481c-a721-da860353aa1b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:26.113452400
+c7f7b928-ccd8-4fa8-ba03-65a315c9eb81,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:26.155682800
+595d8f3c-fd7b-481b-bb09-bab67933f527,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:26.155682800
+43252d67-9620-4f40-861f-42bead206304,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:26.184611500
+87763675-244d-48a5-8f7a-3b0f0c847d9d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:26.434396700
+eb0a7570-c7b9-412f-9d42-33f9b8a4a0ce,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:26.452347600
+ee7d8e2c-9803-47f5-824f-a11febb00b7c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:26.825071800
+c162c96f-2cda-4ea1-9c48-e25ccdf97ffc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:26.845019100
+d5d50ce9-ec0c-42a4-b888-bfe2906dddab,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:33.836107800
+a27b372f-55ea-4268-a2ef-4be2491fbd0a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:33.836107800
+3a9b877a-38de-4712-9ab3-eb01e0007952,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Viễn thông,2025-05-14T14:51:33.857050900
+4d54b749-d9a7-48e7-be18-c150fed28aeb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-14T14:51:37.725219800
+c3270bbe-6e68-4eed-b34f-80312c552c04,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-14T14:51:37.725219800
+1cc49707-9b64-4895-b30e-d8323fd9c27c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-14T14:51:37.749156600
+7ab752d2-82d5-443f-9e24-e2767c8b395e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:40.313399200
+fab90e7f-52ad-4108-8973-062b8c0262d0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:40.335339800
+1a562057-5e74-4448-a28d-abf3a294b079,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:40.963389700
+e1c5f046-07af-44e0-a2f8-9d9b81ee8923,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:51:40.981342400
+e2bdb610-cc95-4aac-b8a6-04276d2fff99,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kinh doanh,2025-05-14T14:51:43.923221800
+e1b70e11-18ee-4ed3-8d75-9cb8406d0200,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kinh doanh,2025-05-14T14:51:43.926214200
+765dc4f3-1fa8-4b70-a899-a1fa7039f02a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kinh doanh,2025-05-14T14:51:43.945163200
+921d6fb5-66f0-4299-aca3-cb9ea66bfcb3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần mềm, Kinh doanh",2025-05-14T14:51:46.598656100
+73b2eea8-f365-4329-9e0a-ab5b9aaab728,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần mềm, Kinh doanh",2025-05-14T14:51:46.608622900
+826c4263-89b3-41b5-9988-4ff42cd11ca3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: IT phần mềm, Kinh doanh",2025-05-14T14:51:46.628569700
+f54590c6-fbcf-4d1d-9fc4-0e60c87e4882,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:51:47.093100600
+377ab904-f891-4290-b51e-c76a7b91f73b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:51:47.093100600
+5d864079-c797-40d7-9779-7e2802bb20cf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:51:47.113046100
+d6007388-607d-462a-87e2-73a3db0157d6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:52:05.015645
+6b2cf12f-e36c-4414-87b0-47c5467a3ba3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:52:05.070497
+492c4ce0-1931-43c4-a7a5-3da8e839062f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:52:05.099419800
+2947bee1-dd6e-4ed6-921c-1c09602c0abc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:54:19.733221500
+16a0d97f-cc50-4960-9b2b-b34fcfa9e105,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:54:19.734219300
+1df0d07a-b490-4564-a5ab-2749d35fd757,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:54:19.760150600
+10b9899c-7f9a-4c00-9f24-45c4680dae69,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:54:19.799046100
+56148971-7f2c-4cf9-8025-52a04641f83c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:54:19.799046100
+6ae5d94f-8288-4310-9a98-d202eda87a2e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần mềm,2025-05-14T14:54:19.827375900
+fe00f216-1c7e-4349-b16b-b14d06e29d6d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:20.096692800
+e6fec32f-d8eb-4ecb-8885-2dde33a1c1fa,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:20.115642400
+cb6e470c-bdb7-4ef3-9c2c-5e609238bfcd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:20.495337
+af5c20a0-a5c6-49be-9420-230a6c649759,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:20.514286500
+a2c70193-167b-4c40-8fd5-7617b04dba3a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:58.408667500
+1e8780e1-7dc1-4c70-bf7a-2cd1ab4d3fbe,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:58.422628700
+f647e362-1794-4a2d-a725-cb1e316193b9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:58.438684200
+9f24b357-6a18-49bb-8092-ec911d52b207,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:58.516271400
+9a39117e-eeed-4579-8acd-f86d00752040,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:58.517258100
+7fa7875b-bb3b-441e-a506-b2ca3ed9a94b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:58.538203600
+7613ab19-9085-4b43-962a-3799a9b4b198,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:58.899163900
+55a023c9-dfac-4efc-b135-f02afc223db0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:58.917136200
+8ef3fa39-9050-4e3c-bb4b-2a114300a164,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:59.372097100
+fea63577-fa26-4934-a859-d124755c10ad,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:54:59.392043800
+12b2ec7d-da02-4208-a12a-d308fe0eb6c8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:26.063355100
+21d69227-c483-4d2e-9274-536d8a72552a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:26.067163500
+f7a7458b-7300-4950-96dc-14653e79805d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:26.089253600
+2b045963-614c-4d0c-99df-9d072f8c3bb4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:26.150159900
+7b7b26ee-b52e-4dbb-9bfa-c7d0e23f69b9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:26.150159900
+a3be1c12-cb83-4090-a583-fef382f9c153,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:26.185254900
+89362e3e-3c87-48dc-8b82-ecedcf04e9ae,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:26.928509500
+2702171f-3f3d-4ab8-a241-f9f0e2fed964,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:26.973258500
+06ccb881-25cf-4ed2-9820-dc2725bcd6f7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:27.551293400
+578286eb-d8ce-4d17-a36e-b2bbdc51e55f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:27.578352600
+3247224e-714a-4813-9520-6668c4ccdc24,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:34.311815800
+9dcc12f5-03a6-49ac-a020-8e6ed99dc8a3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:34.312672900
+225ecc10-0f69-4328-82b6-47be25b52124,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:34.337606300
+e57272f6-2255-404e-9d07-36b3cf3c83e2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:34.391978200
+b0da5f92-4b9b-4846-8f09-746742c8d554,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:34.391978200
+dd9332be-6117-4f2d-a1d4-118c8777eb3e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:34.425451400
+4e618d43-d0f4-4f1d-8f8d-36fc54b8a9e1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:34.695250100
+b51ce91c-5863-4e35-b1da-94e849c5bb49,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:34.718248900
+e2d77bab-591f-4f0d-9173-c633ec38c7bf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:35.095763200
+2a02e7d0-f299-49e4-899e-8ca60118585c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:35.116714
+efd29884-4b56-4698-9ab9-06455458a352,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:56.619340800
+2c8407e1-9c5a-4eb0-8503-693d6e2b322b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:56.620338
+85b3cdca-fe37-4908-a9a3-bf516b6f1f9c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:56.638289600
+4d9973cd-b95b-4c37-bf95-05c02e88938e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:56.823525700
+fdb81c3b-4811-4c88-99a2-6b264b354c72,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:56.822528600
+0376c2d6-6067-4028-99be-1067f9087f3d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:56.844469900
+33a255c9-7dd1-4840-92dd-9065eec100b0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:57.271199600
+6da0138c-c87f-4834-b5c5-c24d54722dc4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:57.292008700
+1d524652-cc25-4436-92f4-f26f41e6ae08,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:57.940240600
+04072e3a-770b-4990-b6c5-ddc3b923653c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:55:57.961186100
+fcfa5409-9a54-474f-beb9-0984b1031746,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:57:40.385060
+d73bea19-2918-433e-9bc1-aadfe32d0537,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:57:40.386573600
+51ac1c7d-6acb-4171-989c-b27a1cda034c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:57:40.413929800
+82a85c58-f588-42eb-86a7-93378a996343,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:57:40.459807900
+94b9db05-19d5-42e7-9e95-780276d00928,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:57:40.459807900
+dade91cb-ece1-4b78-8209-bc92053e0498,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:57:40.479754800
+f8746492-f66b-420f-9310-1094eb256cfb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:57:40.749223500
+f78da52c-5d58-4d19-9636-d3c621129d7c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:57:40.773158800
+ddde90cf-8817-41fb-9980-0a270db2f1cc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:57:41.287880400
+6ac41a7f-bc56-49d5-9dbd-2ca0923b7c5c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-14T14:57:41.307209100
+57d58333-0f6e-4f98-9382-a1702fe38142,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-17T20:17:37.829817200
+b73cf760-07cf-457f-840c-51dfe3781e5f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-17T20:17:37.829817200
+41bddd37-4939-4f06-9a40-6c1398297000,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-17T20:17:37.867714500
+20f40b1f-ddf6-425c-a13e-653c3f4ca62d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-17T20:17:43.478067500
+22bee7e9-fa50-4a57-b225-cc18dddb92f0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-17T20:17:43.478067500
+8f631fbe-e15a-4964-8890-d8a812f00684,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-17T20:17:43.503997400
+87d22e17-8b2d-4626-8dd1-f68156fb9b17,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-18T13:49:05.772021100
+a7a1c318-0ff9-4199-a11f-d72a9e277175,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-18T13:49:05.772021100
+c9a2d162-6e5b-4faf-81c2-18dcc20aa873,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-18T13:49:05.828895
+10d157d5-3bbf-490a-b9b0-6b49b8261ceb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa,2025-05-18T13:49:11.236341300
+a7ccff96-90be-475e-9ae6-4429129428cc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa,2025-05-18T13:49:11.236341300
+2fa5f775-10f1-4c2e-9bd2-20354f91a75c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa,2025-05-18T13:49:11.278906100
+11cf999a-2b99-41ac-89a5-2b1138206919,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-18T13:52:20.153227200
+eb6f5291-659c-4672-a51e-f3bc11bdabe1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-18T13:52:20.153227200
+a263dd01-9db9-48b0-afb2-40e7879b483b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-18T13:52:20.189217200
+352c46f4-f2d3-4f7f-9725-77a6253aa41a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-18T13:52:21.122048600
+93e18496-3bb9-4475-89af-f3adce1bf4b9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-18T13:52:21.122048600
+0415cf64-cd90-428d-a7e3-8ad138ea6f34,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-18T13:52:21.155956500
+2b21b28f-db02-4ca1-8f9a-572a2949d9c8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-18T14:07:28.180426500
+609293c1-3fa5-4372-9e16-2fec7deee700,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-18T14:07:28.208352
+2ce33ddb-01fd-4303-86e2-755190099ecc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-18T14:07:33.551597
+991a50f1-1ac9-42b8-b959-d1928bb6fd11,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-18T14:07:33.551597
+a42d7be8-4ac7-4f62-af4a-d3c5f944bf1e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-18T14:07:33.578540800
+0473c0c7-b037-434c-9c22-bd17dd745e28,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian,2025-05-18T14:07:36.822190100
+94b8d332-d1de-4460-84ee-46e56f603e61,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian,2025-05-18T14:07:36.822190100
+55f7c1ca-0aeb-40a1-a2f9-ee2487002d52,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian,2025-05-18T14:07:36.852624
+e1b5230a-f95c-4f98-a135-70c37ed11d14,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44472103,2025-05-18T14:07:41.422791900
+03e08507-e033-4abb-9ffd-13dd8f7e600b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44472103,2025-05-18T14:07:41.422791900
+40d68b4f-710b-410f-908b-3da21a3061ee,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44472103,2025-05-18T14:07:41.457698800
+64dde848-a810-45e6-a889-290a639bf66f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 30218884,2025-05-18T14:07:41.538482500
+302973c2-e9ea-48a9-814d-d84cd38010e2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 30218884,2025-05-18T14:07:41.538482500
+77f6ac29-9ed1-4a9c-8f6a-161f36ee12d8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 30218884,2025-05-18T14:07:41.566408200
+e3aab9a6-9faf-4261-bd40-614c56ac9a3f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 30218884,2025-05-18T14:07:41.567405500
+03640d2e-0e53-4037-825a-d454250785d5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 21068670,2025-05-18T14:07:41.849861200
+23014dc7-71a3-49ca-90bc-156b053bba2a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 21068670,2025-05-18T14:07:41.849861200
+32dc6861-01a4-4247-9ac7-9d920de54b34,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 21068670,2025-05-18T14:07:41.878783800
+9bbe0e19-ded0-470d-9440-0da8e8ff6b20,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 21068670,2025-05-18T14:07:41.878783800
+80a1aeb1-fc09-4682-af12-8c953a8c4f1c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 21068670,2025-05-18T14:07:41.908896300
+8f7b9f49-dff0-418a-9ca2-f821da8a94e1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20716739,2025-05-18T14:07:42.964620800
+1cf067e6-1b62-47b1-bfd9-458de5085bc6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20716739,2025-05-18T14:07:42.964620800
+9f333805-078d-4f5a-a44c-0f5cccc2f830,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20716739,2025-05-18T14:07:42.991564600
+309de1bd-e2ee-49c5-a508-6c78c56bad4f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 17549357,2025-05-18T14:07:43.065864300
+5438585b-6860-4f53-bf65-d5ede7a6c620,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 17549357,2025-05-18T14:07:43.065864300
+3edc6b5b-f4a4-4bed-bc12-b8e5d8e126b3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 17549357,2025-05-18T14:07:43.092793100
+dee720ec-f9cc-4070-a3f3-b835369cf527,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 14206009,2025-05-18T14:07:43.278975400
+f8fbe32c-c4c6-445b-ac98-5312e2255242,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 14206009,2025-05-18T14:07:43.278975400
+2a30b60a-8f39-4fa5-b4a3-8ba3d72fee59,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 14206009,2025-05-18T14:07:43.305898700
+e925fbab-95ce-4b80-afa9-867c23f97aa2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 14030043,2025-05-18T14:07:45.765758100
+591506d7-ee4e-4ff8-a1e2-29b3d9ebf9f7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 14030043,2025-05-18T14:07:45.765758100
+cd6e0948-7631-4aea-a2e4-273b9ce79e32,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 14030043,2025-05-18T14:07:45.791688700
+fa0e7fba-fb52-4cbc-bdc4-65ecbdbc1372,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 13678112,2025-05-18T14:07:45.862518800
+56c3d591-fe44-4507-a28e-b18c0e564e13,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 13678112,2025-05-18T14:07:45.862518800
+d4a31aa3-4a79-4121-8a8d-cebba978ee08,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 13678112,2025-05-18T14:07:45.888449900
+449fc8b9-f833-4ea1-a20e-0866d1827d5f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 9982833,2025-05-18T14:07:46.075483800
+17251772-465f-46b8-aa0d-7c0d0e158e8c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 9982833,2025-05-18T14:07:46.076481400
+a9a16c76-3226-42a1-9848-da00b9acd1f8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 9982833,2025-05-18T14:07:46.104406400
+3347c10a-8a38-450f-8f7c-45e7bccb6341,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 9982833,2025-05-18T14:07:46.105405600
+306f425f-d049-41fe-8d65-6e2bbe46bda5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 9278970,2025-05-18T14:07:46.298932800
+ce532c93-5efd-4ee5-8c55-5b3fd769e38a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 9278970,2025-05-18T14:07:46.298932800
+6c8fd2ea-376d-4f7a-a0cc-74e491d46ac8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 9278970,2025-05-18T14:07:46.329574700
+99ac2575-6ec3-439f-99bd-16febf643c3c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 9278970,2025-05-18T14:07:46.329574700
+8eeedece-13b8-45c8-8e28-81e3e936ccf7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 8927039,2025-05-18T14:07:49.433624800
+8092e87e-eddf-49ac-8699-4d73a679e344,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 8927039,2025-05-18T14:07:49.433624800
+f428218a-91c7-4948-ad8d-cd153b520f3a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 8927039,2025-05-18T14:07:49.462548
+992758a8-5799-4098-bde3-ffd0fa2451e2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 7871245,2025-05-18T14:07:49.532872100
+0c736860-8f5d-48ea-ac64-8e18e81f4c97,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 7871245,2025-05-18T14:07:49.532872100
+fe89971b-70af-4d2b-96f9-be9257f385eb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 7871245,2025-05-18T14:07:49.562791900
+6c968433-e7e5-4a89-bfd6-f7d1a084b7fa,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 5231760,2025-05-18T14:07:49.758809300
+a5ac8bbf-5113-429a-9f76-ae1de443bbba,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 5231760,2025-05-18T14:07:49.758809300
+4a4bd68d-5095-4c71-954d-ea64241f5c23,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 5231760,2025-05-18T14:07:49.787732300
+e0854184-e1c2-4205-b668-72040008e42d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 5231760,2025-05-18T14:07:49.787732300
+b7597c89-789c-4bb5-bcf3-2893f604b66f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:07:49.979361200
+2a3bebb7-cad8-45e3-a4fe-cc88a2d20e0a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:07:49.979361200
+be6f7f13-1b6f-4151-b213-4ac54ab8ba01,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:07:50.006288400
+8f927ddb-ab03-42f0-b996-009e860516d0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:07:50.006288400
+fc640da6-9ea1-4c32-9c1f-a4246515c52f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:08:06.317227600
+04aef9d7-c044-440f-a4b8-153ada1378f3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:08:06.317227600
+a44e012d-717c-4854-aeb9-a91cfc1dd4cd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:08:06.347685800
+ad590c65-8eb3-475f-b0a2-a666f84033c1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:08:12.499593400
+77f8a382-a6c5-40d1-a5a1-09765d9d1012,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:08:12.556440
+7f61d3ac-1055-4367-842e-4d414a33ee69,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:08:12.580388600
+ce5415bc-6a0f-41d1-bce3-c26c1310c099,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000 | CityName: Cao Bằng,2025-05-18T14:08:14.211030600
+8279a7ef-6d20-4faf-b7b8-84bf69be2c94,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000 | CityName: Cao Bằng,2025-05-18T14:08:14.266532100
+4318a5a3-dc24-4a07-8e7d-e29f05babb88,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000 | CityName: Cao Bằng,2025-05-18T14:08:14.277500900
+16ee0730-d30c-4328-b15e-a7809c4e6798,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:08:24.622405600
+023b0940-079b-41f6-ba5d-ba9ad709fc6b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:08:24.667284300
+16f7ecd3-7c55-40bc-abe9-7f5e2cbc2f36,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:08:24.692217100
+a8f8869c-0e5f-4a81-95d6-b69eb2be975a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: Tìm kiếm việc làm it,2025-05-18T14:08:32.886010100
+47cec2ab-bea0-4939-a0b5-50e1b9b3030b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:09:10.396453900
+ad7999c8-b859-41f8-8822-3008a39b6745,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:09:10.396453900
+bd28764b-9f96-4a65-9577-7a9e8c43b821,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:22:16.646366400
+fc0954d6-da9e-4e07-9a1a-58ff7551aafb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:22:16.646366400
+e4a9e99f-c2c6-4523-a94b-b177f2861e54,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:22:16.678281700
+c4298c29-a7a1-41a9-86d7-cdb88d73d233,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:24:47.352798200
+9774fac3-b2d3-443b-82e1-af1df792a946,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:24:47.352798200
+b928e75f-c888-4f78-a100-7c26d7ea4e50,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:24:47.382718800
+35b6655c-91c7-449e-ad94-1ee46614395b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:25:51.128016700
+c3463448-28c6-48f0-a0df-7230f12b2990,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:25:51.128016700
+8c59ac9f-5933-4d9c-8c74-29dbabc52f59,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:25:51.161925800
+cfb2f7c9-e796-4e45-a5ee-84174f17b258,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:26:45.660075600
+bcc0639c-506e-47a0-8ab1-1a2c4121875a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:26:45.660075600
+12ade69c-0a77-4395-b4a4-6d653823f368,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 4000000,2025-05-18T14:26:45.693984200
+76ad25d7-e45b-45fb-b850-b450619b0693,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-19T10:30:15.709214800
+ef5229de-fd3f-436b-98ec-6b06399c1b42,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-19T10:30:15.709214800
+9f1af79e-aacf-4133-af63-561f3d85a41a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-19T10:30:15.747143600
+ff86574c-3449-4929-a372-a22d4d600cc2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-19T10:35:30.146769400
+7e57b5e6-ea19-4a88-a3c3-b457714f87ae,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-19T10:35:30.146769400
+7f0bf9c8-629d-4676-8d1a-5ed58c6134e4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: IT phần cứng,2025-05-19T10:35:30.168710400
+8b1e4394-61d7-415d-b178-86f0f776094f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-19T10:35:30.202620600
+b52355b4-1524-4936-bf4a-1ac7ee2da6ef,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-19T10:35:30.228074
+7bd6aa66-8275-40f7-b9d7-739075d235e8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-19T10:54:01.411166900
+37cc8304-6baa-42db-92dc-77dbcaead56e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-19T10:54:01.414160200
+9510bcfb-3c2d-4c6c-bc1b-91067b35a235,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Logistics,2025-05-19T10:54:01.436100800
+3b3bc57d-61ff-4fb8-aa32-30ebee06ef2f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Y tế,2025-05-19T16:51:19.304532600
+f47aebea-16ba-4a69-88bc-33eb3ca3c3d4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Y tế,2025-05-19T16:51:19.349234400
+a78cf9b9-cf69-458a-8ff7-7189a6e9b7fe,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-19T16:51:26.721996100
+d3894f7a-7731-4cce-875d-25c497468c6c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-19T16:51:26.721996100
+0a6cc2bf-f6e9-4d4f-ac6d-0061c868f66b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-19T16:51:26.763891100
+f44fbd75-f0c8-4aaf-9c06-0621398d019b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-19T16:53:35.312643100
+8be79772-6c8b-4a47-bf7f-9b436bb707de,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-19T16:53:35.312643100
+9d7b3669-9b13-4217-90a0-714583f3e456,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-19T16:53:35.345618400
+0607ec7f-724a-463e-995a-126c805da422,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-19T16:53:35.401946900
+ec6eccdb-706f-487f-8683-2b708a5902f5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-19T16:53:35.401946900
+a89fc1be-0a08-4c02-ab06-f40326adc1da,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Hệ thống nhúng và IOT,2025-05-19T16:53:35.435301300
+0d5dace0-e971-4a6c-9d9f-22f1978834c0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Y tế,2025-05-19T16:53:36.031142300
+86027958-f76d-4720-8f4c-fadeed2a53fa,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Y tế,2025-05-19T16:53:36.058454200
+7d8e705e-d9c4-43a9-848e-d9f670d566fd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Y tế,2025-05-19T16:53:36.699908
+230cad03-5eec-4c12-a32c-5018d68e565b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Y tế,2025-05-19T16:53:36.725727100
+50fa854f-4b90-4cfd-a2d3-ff9fbe571cc3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Y tế, Tài xế",2025-05-19T16:54:28.767750
+39dc8063-1d5b-48b3-9689-86d0a82f1a3a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Y tế, Tài xế",2025-05-19T16:54:28.767750
+f487702a-ce2c-4ea4-bdfb-33576a5c06a7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Y tế, Tài xế",2025-05-19T16:54:28.788693400
+ba41b012-b800-4cdc-8bf8-1f5780057d54,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Y tế,2025-05-19T16:54:30.070149800
+4739d076-36c0-4254-9103-daee59e5166e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Y tế,2025-05-19T16:54:30.071147200
+7fa92f71-8cee-416f-bb40-d6cc3ddd5bea,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Y tế,2025-05-19T16:54:30.094085100
+18c7e8bf-d308-4be7-a511-51e222061f8c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Thương mại điện tử,2025-05-20T09:40:32.278086500
+0a822b72-3656-4152-9abc-5f5d9da430c9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: bac | IndustryNames: Thương mại điện tử,2025-05-20T09:40:41.095080500
+10afb047-f053-4226-a7c6-05bf9ea73bdf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: IT | IndustryNames: Thương mại điện tử,2025-05-20T09:40:48.853289500
+e4738514-d7eb-4b32-9c20-7c1eda9c032f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Giáo dục/Đào tạo, Kiến trúc/Xây dựng",2025-05-20T09:47:11.281378100
+952c6fa9-1a8a-488c-bc20-9cf298f9251b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Giáo dục/Đào tạo, Kiến trúc/Xây dựng",2025-05-20T10:47:21.782643400
+e00b465f-599e-42e0-876f-63b421734e8f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Công nghệ ô tô,2025-05-23T10:03:01.899437300
+647f041d-f719-46ec-8c85-51e8917f3352,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Công nghệ ô tô,2025-05-23T10:03:01.936338700
+f11ecb45-a6e0-4498-bc49-2854580221ea,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Nhà hàng/Khách sạn,2025-05-23T10:03:07.044346300
+e78c50a4-2f3c-4209-a27c-1a726a26aa53,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Nhà hàng/Khách sạn,2025-05-23T10:03:07.044346300
+b245e4c0-f432-4253-bb4b-76a2ff526b26,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Nhà hàng/Khách sạn,2025-05-23T10:03:07.070277100
+debbdac5-e12a-4788-8cbc-55ec5ae0bd34,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Nhà hàng/Khách sạn,2025-05-23T10:03:46.078287900
+6bce9d54-96cc-4f38-b41f-9418bc4414c9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Nhà hàng/Khách sạn,2025-05-23T10:03:46.078287900
+f46b173f-69ac-4bac-9941-05190393ba6d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Nhà hàng/Khách sạn,2025-05-23T10:03:46.105215600
+087826e3-d8c6-4b14-bbf8-e3ec82d3db24,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:43:41.599667
+5d01dfc6-e70c-46ea-b18f-0e2208a2dfeb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:43:41.669763800
+48e5caa4-f7e3-4cfc-b14f-71625e00b196,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:52:22.749128700
+3024decb-9fe3-4c90-a0bd-c62758d7f891,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:52:22.765612400
+7bed3c33-abd8-4e13-bc5a-1eb67ce52a7d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:52:22.798170800
+b778a122-755f-4baf-88db-8620cbaed85e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:52:27.957365500
+f0dd4311-366c-4ac9-a1f0-aa5673220335,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:52:28.036913900
+5f773701-10b3-4cf1-968c-1c35fd46417a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:52:28.071333600
+8b8ac6b1-e9d2-4807-8f91-f0e7ef32ab4d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:52:29.703654700
+8af23d24-2046-4afa-89ca-f7dbcbf083c9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:52:29.770678600
+a5f781fd-4668-4970-bd94-ce8719049800,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Luật,2025-05-23T21:52:29.826547300
+48107f7b-0254-4173-bb7f-a87bf85e0d7e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-23T21:52:35.934042
+e337f85b-afad-448c-98b8-cfb5a1dcd793,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-23T21:52:35.934042
+eeabd260-5557-482f-991e-90a03ae1c92c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-23T21:52:35.984907300
+aed149b4-75e4-44da-93ee-1834da8302e5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-23T21:52:51.371824400
+3b36ba19-3e48-47b3-8be5-25ba49062d11,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-23T21:52:51.371824400
+4d0ff3b9-9463-46f8-9196-baff108f23fc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-23T21:52:51.406731400
+00f814a1-1da1-49d4-af22-4791ad7da266,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-24T20:49:15.814707400
+18620503-926d-49ce-a5f8-5b3fd66ec5f0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-24T20:49:15.814707400
+d079279b-ffae-4ec3-b88a-6dd7b26b156b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-24T20:49:15.858590200
+d6ce3755-e777-4bf4-8126-758f6c5f75b2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-24T20:49:15.858590200
+54abcc10-61fb-4ff9-baf5-8c5cb85d5d12,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-24T20:49:17.275609100
+829baeca-bc44-4cdb-af82-b2fb7c8fcc01,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-24T20:49:17.275609100
+64b01f12-76f3-4fd5-86d6-0cb658b35ffe,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-24T20:49:17.306545100
+eb407bce-b0c6-4d89-b781-42710762558a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-24T20:49:17.306545100
+2810c609-f798-490e-907e-8d7603b03425,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-24T20:49:21.838531100
+69ddc623-acec-4774-9368-14ae80a633d9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-24T20:49:21.852493700
+ca73f963-8c5d-44b4-93d1-acf54b58b879,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-24T20:49:21.882416100
+565478e3-afbe-49b6-a7d9-fd3d8b2b112b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Kế toán/Kiểm toán,2025-05-24T20:49:21.902360700
+bddd26cc-5159-4cf1-8fbc-c71a6e3d25ca,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-26T19:14:58.091050900
+49e7db3b-767d-4676-ba7c-19ffd3d96bfc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-26T19:14:58.091050900
+407420d7-8821-451d-a009-1d744fe27aa9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Marketing/Truyền thông,2025-05-26T19:14:58.133454200
+<<<<<<< HEAD
+0a64154d-3bf0-4608-82ca-9e83a335a1ea,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: it phầm mềm,2025-05-28T15:18:23.695945500
+884218b4-52ec-485f-9cfb-c714ae49e601,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-28T15:18:42.078657100
+d3057cbd-9ceb-4568-9052-08e8a4dab3d4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-28T15:18:42.078657100
+a6e8c653-5613-41c7-80ff-43fb41ec2a96,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-28T15:18:43.297819
+2c790c01-dfdc-423c-8ac9-36a6d1db1466,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian,2025-05-28T15:18:43.297819
+5bf38f71-5488-4d7c-8dfb-3076496621bf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-28T15:18:47.253032600
+cf5d65ca-4dbc-402b-b1cd-2a21cbf3b342,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-28T15:18:47.253032600
+55c6b868-d683-4312-952c-4377a757258f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-28T15:18:47.281951900
+d7dd3994-e315-46fa-8372-5b5b08b47322,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: Tài xế,2025-05-28T15:18:47.281951900
+c7d2bf2d-b8c8-471c-b545-ef609bbf22da,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-28T15:18:47.736290800
+caec6e3a-8c74-4d8c-8171-86d9161fbdfe,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-28T15:18:47.736290800
+46d1ef5a-656e-4063-aa9a-e0e2aa93fc2a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-28T15:18:47.777578600
+6db130a5-637f-4d68-8285-3349cede2ee9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: Logistics, Tài xế",2025-05-28T15:18:47.780594400
+=======
+>>>>>>> 86ac2b3d3a8906e04143f265c5fb57234d01b863
+bd499fb9-e64e-4cb1-814b-3b21b69f370d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44270386,2025-06-01T15:34:29.533994200
+be6d56de-1043-4620-b726-2277f68125ba,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44270386,2025-06-01T15:34:29.533994200
+4a737a31-7678-4b25-94de-938eac8ee237,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44270386,2025-06-01T15:34:29.589844600
+c9e88a76-f419-4f71-a521-662465ec40ce,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44270386,2025-06-01T15:34:29.589844600
+005f3149-6f2c-4cf3-b144-3df22ad57877,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44270386,2025-06-01T15:34:29.701546500
+22de2f2b-2edf-4032-8b80-4a89d33ccbeb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 27124464,2025-06-01T15:34:29.703541200
+32640126-da93-4ba6-b825-f69667787a27,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 27124464,2025-06-01T15:34:29.706543800
+3636abac-2251-4f1f-93a0-39a401c0831c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 27124464,2025-06-01T15:34:29.765375600
+54c35551-d300-46ca-b2b8-df961c50a679,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 27124464,2025-06-01T15:34:29.766373500
+d963af45-f5e9-45ab-b4b5-fc92f71429b7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44270386,2025-06-01T15:34:29.769365100
+7be0373d-28fa-404f-a148-729662cab33f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 27124464,2025-06-01T15:34:29.828250700
+07d97f4f-ec08-48e5-8246-78b6c1c7d392,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 27124464,2025-06-01T15:34:30.137381300
+7dda82ce-c1c6-4811-b656-778cc2bb3262,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.142372
+6e1d1e06-1e7c-4179-9abf-58c4140f7537,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.143365200
+2f6c7bd4-9ae6-4ebc-a801-7462040a9e73,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 27124464,2025-06-01T15:34:30.181489800
+b1dd0067-f8ff-43ee-8b66-e06077cf2035,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.189243100
+35f6757b-53aa-437f-97c3-bc2c82959e29,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.191276700
+e0fb70b6-c43d-4f7b-b9e0-57a621f2cbb3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.228138400
+ccf43c60-beb8-4a7a-9c4d-b6909ee955cd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.682923300
+1318c941-33f7-48bc-8c52-198280cd6355,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:30.693894400
+b952adf5-7211-48d2-9c1e-a211e6ec756f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:30.695888
+f4e148d0-18cf-4289-b027-68a7088996f0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.721821800
+f386f3ec-336e-4096-9717-4624cb7b4de9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:30.733786900
+57415c7c-27d2-4840-ac24-055d90ab8b6e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:30.735782
+f265c350-c968-4c5d-b29c-d1b85b408ba4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.763707
+23503087-71ef-48d0-8259-43dca5e5ac91,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:30.773680500
+774fc940-24fa-42ba-95b3-48145b29e579,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.801605500
+58fbf3b8-7c6c-4cea-8d85-9122667035a6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:30.813573700
+0872ba17-24da-4baa-8105-2110c60c14d0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.837518900
+a50e1386-75bd-4ad7-b9b9-9b9ee61cade7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:30.854464100
+4f25fa28-7b06-46c3-960d-186483738dfe,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.878401
+e6d547d8-aa6d-44bf-8834-22d70c460947,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:30.903333600
+eabef1e8-cf88-4816-8922-a6801420447b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.929264
+703b65c9-47ef-43ec-b6c3-75748f49aaec,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:30.950207800
+c9a4735c-eb54-46dc-a55f-2a6780e37777,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 26942060,2025-06-01T15:34:30.970154900
+b36a094d-e484-415b-919e-2c01ea3099f2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:30.992306800
+97722b13-b9c6-46be-a148-993c1b8b54eb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:31.030992200
+f9401ee8-3803-48dc-8cd9-249465da9e8f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: nhân sự,2025-06-01T15:34:36.864434600
+e21d996f-d38b-4fd6-83b8-ddfd319f4aca,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: tài xế,2025-06-01T15:34:46.575683300
+f8c2f309-2648-4b72-a969-496a494206ac,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:50.879218400
+db958cf7-b436-40b0-819a-ef0784ae3a0f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:34:50.879218400
+476bc32d-fee0-47a1-b22d-3d27250ae43e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:35:29.697770600
+123a2339-f761-415f-a742-f37deed6c498,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:35:29.697770600
+d51a8bd7-3bea-4d6f-8d1e-a52e42eb63f2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:35:29.735678100
+5205e018-7067-45da-93e8-e5367e270edf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:35:29.735678100
+fca1d6d0-b6f3-4548-8eab-e24a3eb49853,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: it,2025-06-01T15:35:32.904890600
+8094b949-b150-483a-8c26-137e1b466222,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:35:38.224931700
+ff396819-5aaa-4233-9014-16f2c4bb1003,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:09.128338900
+d97d8dcd-83fc-445c-a7f8-3761da096be3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:09.129990500
+1ac03521-9155-4c62-a09c-af70f14e5cd0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:09.173252900
+c035b950-7756-4bb8-8567-e1fefe071f9b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:09.177208600
+326b72a9-d449-4282-8cff-622f8c104e35,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần cứng,2025-06-01T15:36:14.809950300
+b5034649-6bb0-4752-9b4b-785e8226a1cb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần cứng,2025-06-01T15:36:14.809950300
+0c173264-62d3-4d56-90a4-d4fa806606ea,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần cứng,2025-06-01T15:36:18.108734400
+ff8f7a6f-4ff2-49e7-9129-facc1d19906f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần cứng,2025-06-01T15:36:18.108734400
+2668fb66-3c35-47fa-b6b4-5ec1edca065e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:20.998931300
+c509f19c-8da7-4b0c-a86e-3df1b4c00a8d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:20.998931300
+91ace2d4-19b3-4853-820a-33ab596a7c09,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:21.042824700
+be7cfe63-772e-4ec8-b108-000c3b06feac,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:21.042824700
+2f5851fe-f6d6-45a9-bae4-a7176035db24,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-06-01T15:36:21.886784300
+08e35464-16e0-4083-bfbe-87fdac69920a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-06-01T15:36:21.886784300
+dd9d45b0-bc06-464b-9902-e86356698e2a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-06-01T15:36:21.910720
+290698e4-4d19-4d44-acfa-186ca1e3ec52,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-06-01T15:36:21.910720
+29e922a2-cfd6-4693-bb45-395a5987b181,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-06-01T15:36:35.507100900
+d66c0536-4896-4a9b-ae6e-4f7e98ac1a8a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-06-01T15:36:35.507100900
+ad46a84c-80b4-4bdc-a187-d43fa434af39,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-06-01T15:36:35.534941600
+a47d4f4f-e046-4b0e-9e7a-db37c9ef1805,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-06-01T15:36:35.534941600
+d0315363-240c-40fc-bfcd-42340fa196e3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:54.195516800
+03609f14-afe1-4e3d-8e87-dcf50323c6cb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:54.195516800
+a7e98498-6404-4c5c-bdee-50c8c510e951,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:54.227431100
+7397ae2d-e50f-4a08-b364-4aba375169d5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:36:54.227431100
+0a2b66ce-47b9-43b0-b208-878768ce2fb2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Sản xuất,2025-06-01T15:36:58.396040100
+b7de1fc4-2baa-495d-9b44-eb4875aa0a63,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Sản xuất,2025-06-01T15:36:58.396040100
+f808460a-c93e-4c0a-bae1-2234d33099d1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Sản xuất,2025-06-01T15:36:58.441918400
+6ef9a2b7-648d-41d1-9d27-5ae1da610962,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Sản xuất,2025-06-01T15:36:58.441918400
+31a2afda-7817-4385-b42a-b17226703dd5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Sản xuất,2025-06-01T15:37:19.791897900
+758321a1-c1e1-4cb4-a0fd-795784c93162,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Sản xuất,2025-06-01T15:37:19.791897900
+2c315a8e-dbb2-4fa3-9fae-8aa735c06c55,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Sản xuất,2025-06-01T15:37:19.831790900
+93c04dc9-2fc6-4545-b44b-0089e0d37bc6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Sản xuất,2025-06-01T15:37:19.831790900
+522d0431-1549-4fa7-8257-48980785f965,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:37:29.339382400
+6e088841-5527-4156-893e-d48ce5a18644,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:37:29.339382400
+eb187d9f-ecac-40ca-9703-db7360ce7ca5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:37:29.379275900
+cb80115c-5911-4fff-b6d0-6812bd376a9a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:37:29.379275900
+b85f2b41-69d3-4f8e-bd83-41dfbc01f067,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:37:32.950461300
+14bed293-5771-491d-81fd-ce75e64d5c32,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:37:32.950461300
+ad32897f-2ebc-4bcd-9790-118877f6e71f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:37:32.973400300
+4d33a7f1-57bf-4642-b7e2-4410a9128370,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:37:32.973400300
+88ce4fc8-49bd-4e8c-a82f-5ca81b067b0f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:38:08.922525900
+1af7dc81-5930-47cb-9592-bf302471e7ce,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:38:08.923522300
+5d8f986a-5077-466c-a364-9cf98f9b7d55,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:38:08.953443300
+e5299e3c-3713-4dc7-ab41-fbd6a880a7c6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:38:08.955439400
+3e30412d-2881-4499-9173-c922e3b3fbe5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:43:58.144507900
+f89e227e-dead-4da5-818b-f41e9d237d71,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:43:58.144507900
+b40de627-a122-46d7-b552-b21fe9b7aa20,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:43:58.182288400
+4d033a29-62be-4dce-9987-26664b8aad29,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:43:58.184282200
+1e93316f-7111-4156-aea6-29f39aa1de4c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:43:58.228165800
+c42598ee-7a8d-4c86-a081-e472f1d56f91,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:43:58.228165800
+2f6ce636-4a88-431f-bb36-cfa5ef52d27e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:43:58.254095400
+c9b21db0-57db-4f64-923b-e3f5742b541e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài chính/Ngân hàng,2025-06-01T15:43:58.254095400
+898c4cc0-feb4-4a86-b840-c853cc9d23a5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:44:04.545542700
+8c597213-91f8-408f-b1f8-e672797b01f2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:44:04.545542700
+7b7260c6-8dd9-46be-8833-9c5d408da533,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:44:04.579452800
+01cd19ed-ed21-4093-a157-43348c026ac0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:44:04.579605700
+a375f5ba-77d5-41e3-8c92-c0d93600ab29,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:44:04.614369300
+0dc4923f-92c9-4e2b-a918-61704cbf1dc5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài xế,2025-06-01T15:44:05.955418100
+9b81fa57-ffa6-4891-b942-1638cf46c1b1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài xế,2025-06-01T15:44:05.955418100
+69a96b5f-fce9-422e-8573-4cd087478e53,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài xế,2025-06-01T15:44:05.979353600
+41d2b668-19c8-4af1-a217-98c799e687ba,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài xế,2025-06-01T15:44:05.981349
+a6be8e67-a9a4-43fc-972e-e9f18dadc590,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài xế,2025-06-01T15:44:06.006017500
+da8f3f8c-6062-48d4-9044-86dd5ba79000,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài xế,2025-06-01T15:44:55.344622
+007d37c6-97cd-454b-addb-9f09c1a1b5b6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài xế,2025-06-01T15:44:55.344622
+a5c6ab50-9dcf-4715-870d-0aee60d4f129,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài xế,2025-06-01T15:44:55.373544700
+88fb5b8f-b395-4f62-bb74-da3ed39f9436,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | IndustryNames: Tài xế,2025-06-01T15:44:55.375540300
+a40661ee-e5ae-41e3-9508-f0ca75829c7a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:44:58.676706100
+6cffb057-4a20-463c-aaa6-ec2e89f2ced2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:44:58.676706100
+b0725c01-c92d-40e0-b6d1-174dc4c7e1ad,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:44:58.706626900
+5d5c1254-2053-4a02-8c92-fdb5e72cea9d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:44:58.707623800
+1a3d81e0-b24e-4243-825a-6b4da75c1495,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:44:58.737543900
+6deb839e-5cfa-4a06-b6a7-3074c39ee666,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000,2025-06-01T15:45:00.215346100
+62e94686-74cf-40b5-9d69-935d4abb09cb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44635193,2025-06-01T15:45:00.229307400
+11d2d98e-55b3-4b17-bcad-a569e8d48c38,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44635193,2025-06-01T15:45:00.229307400
+68f7f068-2c49-41f6-a963-6091fb26bde8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44635193,2025-06-01T15:45:00.261222300
+a908ccaf-39a4-4bfc-a383-4f8c60608e70,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44635193,2025-06-01T15:45:00.261222300
+69202573-e2f4-4abc-9e16-bff1cbd409a0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44635193,2025-06-01T15:45:00.296128900
+948a04cd-ccea-45b4-8b01-2a9ae284d5b3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 44635193,2025-06-01T15:45:00.360955900
+6a8d7761-6056-4cf6-80fd-2b4adfc3d8ab,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 34238197,2025-06-01T15:45:00.364945400
+4ff5ec6b-8e73-4169-97a2-4d6511d7bab6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 34238197,2025-06-01T15:45:00.364945400
+c9cc9fd1-d9a5-4f95-9cba-1547e6deb7f4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 34238197,2025-06-01T15:45:00.397865200
+fcf15da0-388d-4832-97f6-ca648dc48253,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 34238197,2025-06-01T15:45:00.397865200
+96b1b9cf-458c-44f5-8796-55d883b1fa63,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 34238197,2025-06-01T15:45:00.431766300
+7f890e15-2e82-485c-a42f-beb31c966330,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 34238197,2025-06-01T15:45:00.775846700
+51d72275-d947-4133-bfcc-0c63228802fc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:00.783825
+d1a73922-1a4b-43a4-8cef-f23d27c892cf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:00.786853500
+2c8da061-2361-48bd-a40b-b7c6ffddd376,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 34238197,2025-06-01T15:45:00.811750300
+674ce623-7ae8-477b-bc13-5c0a35bb9943,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:00.816737200
+87f15f10-69c9-4eba-81a8-6b62ebe0d387,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:00.821724600
+c09efba0-e663-45bb-aa41-d11452560106,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 34238197,2025-06-01T15:45:00.844662600
+9c527e55-c676-4405-8ab8-d1000000b8e7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:00.849649400
+70ac688d-af95-4a30-9636-15837caa1e74,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:00.878572100
+08b11afc-afa8-4abd-80a3-775ff2ed712c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:00.905499300
+2bab9fc3-fd1c-4a36-bde3-f9df73f2a254,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:03.891692700
+6115523f-1d91-48bb-a8b7-0c4fcf6165bb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:03.895681700
+0b7d8f56-b577-4603-9980-1710890e78ae,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:03.895681700
+3fc167c4-b98e-4cbb-9123-a6b46aa346fd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:03.926598800
+db6b5647-e8ce-47d2-9e41-24d2e4bfbe89,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:03.927596300
+65c71657-be61-429a-9c01-5b39c47a2e25,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:03.956518800
+9157a2e2-d0eb-47f4-a979-249c1b669e8f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.024337600
+a0e7e406-5b24-4597-a341-479a7914b37b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.030321600
+3f9c34ad-fadd-4ba7-9c16-8c8da6df1e25,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.030321600
+5caca11a-b86d-45b5-bc1d-3073a21c4cc3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.059244
+5bf15dc0-f886-48fc-a4ec-0ccf2ea12086,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.059244
+9dd1732d-8679-464e-a66b-642d3d4018c8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.086172100
+af222b6a-6b05-470a-856e-801fbba80195,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.434241500
+ddc38a64-c8cc-48ad-ae77-070c91f58adb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.438230600
+26eb709d-a809-44ec-8901-5705461a69a7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.438230600
+fa4146a9-0539-409e-9003-1b57d1a4f9ea,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.466156900
+82bfb112-089f-44e6-87a1-d1faaf116e5e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.466156900
+a142024c-56e5-4de0-a114-4a8a1c458a56,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:45:04.493085500
+2442d426-745f-4299-9054-443ebdfc6e07,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:45:06.908829400
+1d78a04a-7557-4732-924a-f544bd076945,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:45:06.908829400
+e75fd7e2-f373-4755-b31f-b3eeef6d3759,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:45:06.929773400
+90a82271-d316-45f9-a282-f4fd5474e2de,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:45:06.929773400
+6a4cf914-1620-4680-aafc-3b8763545db0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:45:06.950717300
+b40075f0-bb33-4714-9b6a-3615e8efe285,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:48:17.683637200
+6584e27b-2420-434a-a3b2-574a03cdf76d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:48:17.683637200
+213322db-0006-44e4-8905-b94c9317518d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:48:17.711562700
+1d66b41c-c1b7-4c61-88e8-915972cc6d94,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:48:17.711562700
+cb2c3b4a-8f2c-4f02-b335-8737083875f3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:49:48.464415800
+90812cf5-335b-43de-859a-7fbb2747e36b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:49:48.467409800
+ca666256-02a9-4739-a236-d2482ae92653,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:49:48.487390800
+51b04ec8-295a-43b8-8b78-8fe993509bd9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:49:48.489058600
+9f7affae-549c-4d2c-be03-0059882c1008,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:49:48.591096900
+6c32d608-9804-4bbc-ad86-1ef95798f49a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:49:48.591096900
+e39feafa-dcc3-4641-ab39-a42f65cf0f46,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:49:48.617009400
+2eb110cd-41d2-46aa-b26c-8360c5e86266,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Logistics,2025-06-01T15:49:48.618128
+dd299f07-f2f2-49ab-808e-1693870fb712,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:49:50.853366400
+ac7bf188-d5ca-4670-b171-e825dcacbae6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:49:50.853366400
+639a5706-744e-4c52-bb68-94440151d446,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:49:50.882288700
+4395261e-8a21-43fa-97e8-3131f96dfe09,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:49:50.882288700
+0502f6ff-4ed7-4ccf-b6b6-6f053c2109fc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:49:50.911212800
+ffdbad49-0ac6-44d6-847c-5d618b8b6963,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:49:52.184789
+d97f17b3-9b29-4c61-99d0-57d21d8a932d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:49:52.184789
+29b62f05-8ee1-453e-86af-7cf58ca25d0b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:49:52.197754100
+86097536-448d-4802-9b73-8573e0732f7b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:49:52.197754100
+446e1a8a-71ce-470f-91e7-a89dac841391,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:49:52.209723400
+00760dcb-5a5a-4a02-883d-304ace365549,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:00.607630200
+71c1345e-de9a-42d7-b20c-a1981a8996f7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:00.608795100
+53a7ae46-86f0-4339-9d19-9b492a4e8c74,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:00.624513700
+81a3e1d8-aa26-4824-bd82-40b7bf244cbf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:00.625494100
+e7f22787-2b0c-47ce-86c5-6e273bbe6ea0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:00.675361200
+9f01fe65-37f3-414c-b428-4234b6fddd1b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:00.675361200
+a7d12dfc-3591-44c1-9dbc-1e8c02723c03,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:00.697301800
+74f35b40-296e-4509-a4e8-b04e3b152f0d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:00.697301800
+08025e61-2a1c-4b4d-8d1a-cad706911bc8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:02.342023300
+3579198b-07e0-40bd-92f3-8d1d1aa35312,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:02.342023300
+ba4792fd-bdbc-4055-bd0f-7dbedb228a44,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:02.371904400
+b66c7b75-3c89-4a4a-a3c0-ad2f1498c77a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:02.371904400
+b13e19cb-d2f7-453f-b11d-0fd1965b7391,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:02.399878400
+9ff35090-5bba-4772-986c-49fbbb5a2d5e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian | MaxSalary: 20375536,2025-06-01T15:50:03.406487200
+0a5104fe-b909-4af1-88e0-dbac7535c5d1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian | MaxSalary: 20375536,2025-06-01T15:50:03.406487200
+0e767557-2e75-47e3-a46d-021f603029fa,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian | MaxSalary: 20375536,2025-06-01T15:50:03.435433100
+a4d89e18-3e5b-4392-943e-2cec48a33ae0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian | MaxSalary: 20375536,2025-06-01T15:50:03.435433100
+b90b5dd9-73f4-44a9-93b1-3ff03e6590da,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Toàn thời gian | MaxSalary: 20375536,2025-06-01T15:50:03.463334900
+172165d1-17e9-48a3-824c-8ba5b386379e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:04.953250600
+20276a0a-ddf8-47ce-8037-f7e1604744dd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:04.953250600
+86212ad9-f62c-4834-ac7a-a91159ec1e11,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:04.980178
+cb34c99a-16f6-46d6-aa14-dd8de7b75068,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:04.980178
+aadf4b82-cfd9-4d46-abed-7df240d6b44f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:05.007105600
+bf50000c-29ff-49b9-9414-bc563b59ea35,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa | MaxSalary: 20375536,2025-06-01T15:50:05.554942800
+6014f505-b945-4e4e-8101-fd764480dcdf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa | MaxSalary: 20375536,2025-06-01T15:50:05.554942800
+09ba5e7c-05a0-46fd-9db9-bad7734c97c1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa | MaxSalary: 20375536,2025-06-01T15:50:05.574888700
+65bad3a5-79dd-4fbc-b74c-c4c7bf00734d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa | MaxSalary: 20375536,2025-06-01T15:50:05.574888700
+21220618-97c3-40df-80ff-424d5eeaa025,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Từ xa | MaxSalary: 20375536,2025-06-01T15:50:05.594836600
+c41c3af7-e616-4b7c-b5bd-30dbfd755b0e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:08.699555
+4180bbb2-cfd3-498e-bcc7-d67341a5e5e1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:08.699555
+45debcee-4713-4c8b-a309-05df6749eafb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:08.725479300
+fb24ed26-439f-41f2-99af-ebdeab83c166,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:08.725479300
+79797b56-2bba-4223-a614-1a7ec1472ecb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:08.752393500
+1dab225b-ab3c-4aa7-8dfe-526b9d9ebc42,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:09.345795900
+b8392dfd-320b-4e7e-98b2-3872dd79eff1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:09.345795900
+94a73dc4-c32a-4f40-87f1-ba32aabf54c8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:09.358762200
+5154645f-99bb-47ad-8c06-af2148153421,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:09.359778500
+d338107b-4ba0-4181-9962-c88c3ba524b2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:09.370729100
+e4b2813f-14f5-409b-a959-adb3b3c9329e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:10.402048700
+3e74029d-af22-40e1-9c02-79d59dd97917,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:10.402048700
+95047ca4-6ff5-45ee-b2f8-a11246f9cad6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:10.428978300
+8ce72026-4bb0-4d4d-b279-4d73fa843a5e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:10.430971
+62dc9923-3287-4cb6-8a5d-25faf9b78b12,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:10.454907400
+c6679a2a-b59f-4111-83bd-547f299ad047,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian | MaxSalary: 20375536,2025-06-01T15:50:11.019773800
+5a41ed7e-c085-486f-9dd4-abf5a23fb709,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian | MaxSalary: 20375536,2025-06-01T15:50:11.019773800
+ce2cdfee-f8db-442c-86f1-12bdce9ab242,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian | MaxSalary: 20375536,2025-06-01T15:50:11.043709400
+fb2a03b9-e772-447e-bf6b-3d66357e4749,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian | MaxSalary: 20375536,2025-06-01T15:50:11.043709400
+88e69361-d4df-47b2-9867-9bbfde3a5ddb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian | MaxSalary: 20375536,2025-06-01T15:50:11.069640700
+e51bc7a2-e0a7-4bf5-b073-99e62e3fae00,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian | MaxSalary: 20375536,2025-06-01T15:50:16.266901100
+9ebc42a8-41c8-4096-8dfa-6472bf449c64,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian | MaxSalary: 20375536,2025-06-01T15:50:16.326733400
+09407c69-dde7-4dc4-95c6-98cd9f0e9442,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Bán thời gian | MaxSalary: 20375536,2025-06-01T15:50:16.366625900
+a67c506e-86ff-48b9-995c-7cf51178b851,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"TypesOfWork: Bán thời gian, Thực tập sinh | MaxSalary: 20375536",2025-06-01T15:50:19.604528700
+d604155f-c050-480e-8000-6615101e4d4a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"TypesOfWork: Bán thời gian, Thực tập sinh | MaxSalary: 20375536",2025-06-01T15:50:19.604528700
+e6e88f99-85c5-43b5-9d37-2481c7752017,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"TypesOfWork: Bán thời gian, Thực tập sinh | MaxSalary: 20375536",2025-06-01T15:50:19.629462700
+57cac866-b402-4684-9246-c48e1d759a8c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"TypesOfWork: Bán thời gian, Thực tập sinh | MaxSalary: 20375536",2025-06-01T15:50:19.634449900
+023ec4fb-7fb7-497c-9ab6-a6f1a5b42ab9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"TypesOfWork: Bán thời gian, Thực tập sinh | MaxSalary: 20375536",2025-06-01T15:50:19.658396600
+410c1a21-4c1e-4fab-935f-2e2f2449cdef,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"TypesOfWork: Bán thời gian, Thực tập sinh | MaxSalary: 20375536",2025-06-01T15:50:19.683319100
+06e229fd-0be3-432d-a53b-05fd57254c12,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"TypesOfWork: Bán thời gian, Thực tập sinh | MaxSalary: 20375536",2025-06-01T15:50:19.708253200
+0e48279b-9bb8-4bb1-b148-313511c68237,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:22.166901400
+144b4519-3b94-4069-9dbc-b0877dc4f595,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:22.166901400
+17c27525-d141-44b3-bf3e-65ab5eb94dc5,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:22.179866500
+e20f3094-c2ca-45e9-b60e-ba22403bdb6d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:22.179866500
+75033d1f-d4c3-45f0-923c-d46665feb625,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:22.191835500
+9658ee87-ca02-4ba3-8c27-40eba5142210,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:25.279414400
+4f8b3390-b6f4-44fe-a884-4fd1c9b4df65,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:25.279414400
+78eb52e8-7ae4-492f-b367-89e9e9df7bbd,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:25.306343100
+c4654a2f-b4ff-420e-aa16-d63a74ccd748,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:25.306343100
+0d2818b4-1aa2-4c57-915b-c59d259c1eab,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:25.333270300
+7e356d4b-c12f-427f-920b-d910baf50b02,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:26.971749900
+3673e077-3ee2-43c1-82d8-ace79e849fb0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:26.971749900
+02be3ce6-6022-4f00-baaa-040f1d7f2e7f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:26.983718400
+eaf06c10-9d7f-4b01-b1a0-9c07b20736ed,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:26.983718400
+e6cb4b9c-0b3e-4b9e-8986-8ec48d856c01,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,TypesOfWork: Thực tập sinh | MaxSalary: 20375536,2025-06-01T15:50:26.995685700
+fe44789a-60fc-4855-837d-d611c44a6e93,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:27.662990600
+c212ee9f-7fbb-44a2-8603-36813a783d4d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:27.666980
+e82362c9-e783-431c-80fa-1f5f7f343276,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:27.700890600
+fa48e584-849b-4954-85a0-e4dd622f0a98,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:27.705876500
+6a26a221-556b-4134-bfd8-d6ba87a5307c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:27.741780700
+2937be7a-c579-4a3c-a48a-28a491ff4072,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:50:29.238833700
+a9b6d6fe-4e5a-442e-ab6f-6d094d6aac81,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:50:29.253806200
+bfff52ac-c3c2-4377-bf28-78fcb4560499,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:50:29.267755700
+6ca6aa54-f3b7-47f4-a90f-af115a6d0293,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:50:29.281718400
+6504db8b-dd65-43b6-b168-e6cdc6c84c35,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:50:29.305654600
+31c6070a-51c0-4743-9915-366902534153,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:30.247840300
+bf9c94d7-72bb-4a95-98b0-5b144fc3b131,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:30.247840300
+055a0b05-328b-46d2-8ad6-4fb6035e5f5c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:30.273778700
+e0c8aa5b-ae9c-4bf0-8169-2cd6a84e9f86,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:30.274768400
+80ce4db9-3a6e-4c78-a409-c2573bef4aa6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:30.300698700
+5b2c7eb4-5410-4509-8902-dc98bcf6e3e3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:47.145346300
+cbab2635-078c-4806-9c89-8a4405bd3fea,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:47.145346300
+429e473f-bde1-4add-87e9-3e755c19856c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:47.180431
+a42772b0-687a-4d97-b2dc-dfe7c1c6a4a8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:50:47.185197600
+c6b85717-a1e5-47c1-b784-45ed4075036b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:50:48.457795
+0be1ce56-b670-457c-bf46-4eb47979c839,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:50:48.458792100
+6dbfaf3a-0d70-4eac-aa37-096de64e0020,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:50:48.485719500
+272fe244-647f-4a38-bd8f-00259b7a215a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:50:48.487006800
+aa30defe-1896-48b4-87b1-1c46a4aa78a7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:50:48.516055100
+5ae124d7-5a95-4497-a7d9-7a8e6709a38d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: Logistics, Tài xế",2025-06-01T15:50:51.183789600
+7d3d7544-3016-46ee-b681-b21ddbc3c513,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: Logistics, Tài xế",2025-06-01T15:50:51.183789600
+a28066a1-9d6f-4dbb-ac80-a93d84840360,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: Logistics, Tài xế",2025-06-01T15:50:51.204740300
+4d62e1e7-b323-4d0a-a1b3-8a98775ac451,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: Logistics, Tài xế",2025-06-01T15:50:51.204740300
+f8093f63-2f43-4716-827d-1d5326b2bda4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: Logistics, Tài xế",2025-06-01T15:50:51.227686600
+c634da52-2c2a-4c54-b6e3-908da578ffcf,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: Logistics, Tài xế",2025-06-01T15:59:01.100288
+2a1e4d2c-f0c8-453b-8d9f-b32f75f85bf1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: Logistics, Tài xế",2025-06-01T15:59:01.101992300
+d5dadbf0-942f-4aa6-873c-98a514ddaf0c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: Logistics, Tài xế",2025-06-01T15:59:01.182833500
+4d95511b-a451-411f-9896-2c54ba33bfed,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: Logistics, Tài xế",2025-06-01T15:59:01.182833500
+b09dd714-e08c-4a90-9cb5-7d7b316b7f8f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:59:04.280763700
+fcebecd4-6bf0-4a19-a727-b98551fc048e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:59:04.280763700
+6cc4d7b9-e543-4e31-a455-b1161b107237,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:59:04.309686700
+b346a362-0b29-4a2f-8f6b-4299c19770b1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:59:04.826429100
+78c95d7d-a6c5-44c2-869c-8a15b0c7ea22,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:59:04.827426400
+eac7410a-63e0-41c0-b534-da2391112135,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:59:04.852360900
+12183a01-a480-4a0d-b680-9b44b85b2c6b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:59:05.712958900
+9717ce0a-4047-4ef8-a687-c7af2d1a904a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:59:05.712958900
+ba939753-c475-4449-b9d8-38e3f9a7680d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:59:05.738897500
+c11e62a9-0c65-4660-9281-967b8f474ea2,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:59:15.638820900
+395e8480-580e-49d8-a1b2-e8b9108080ce,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: Tài xế,2025-06-01T15:59:15.638820900
+a08060ae-360f-4a7d-8e4c-bbcff1ce40fb,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:59:22.126886800
+697a1be9-3db0-4e19-9567-a69c7fe45ed1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:59:22.129880300
+c8789f1c-02c7-44e0-af1d-5d47927502a1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:59:22.158027900
+38d4fd46-129d-4264-8ff1-debd2940413f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:59:24.284894300
+e8cefff9-b42c-4b8d-9cb8-f098247890a1,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:59:24.284894300
+398048fd-bf1e-4663-8366-3ac22148ad83,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:59:24.369600
+6e275045-d8cb-4fe2-ade2-2d27976e4c86,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536,2025-06-01T15:59:24.369600
+2838c2bc-8289-44f8-9ff9-82a41020a416,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: IT phần mềm,2025-06-01T15:59:29.754277
+89bfe589-7508-4798-b493-23a32154ed5f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: IT phần mềm,2025-06-01T15:59:29.754277
+ce95b939-4855-4879-a2c0-db8edc488add,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 20375536 | IndustryNames: IT phần mềm,2025-06-01T15:59:29.785190600
+76e20dd3-50a2-49e9-b354-c2dd06cad860,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: IT phần mềm, Kinh doanh",2025-06-01T15:59:30.355731700
+6ed76528-bffa-42fd-b06c-f745a4cc0693,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: IT phần mềm, Kinh doanh",2025-06-01T15:59:30.355731700
+e40067ec-582d-4f7c-906b-6c55bdfb5621,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 20375536 | IndustryNames: IT phần mềm, Kinh doanh",2025-06-01T15:59:30.385173
+7caaa0d1-26f7-464f-8841-003ec21de90d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: IT phần mềm, Kinh doanh",2025-06-01T15:59:47.696816
+0674e745-0711-4154-9803-a136b6106cf6,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: IT phần mềm, Kinh doanh",2025-06-01T15:59:47.747694800
+ab266212-0c0a-4197-91e9-659611056366,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MaxSalary: 45000000 | IndustryNames: IT phần mềm, Kinh doanh",2025-06-01T15:59:47.749700400
+8db23821-23fd-4b7b-877f-40ab74bde669,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MinSalary: 2500000 | MaxSalary: 45000000 | IndustryNames: IT phần mềm, Kinh doanh",2025-06-01T16:17:22.720225800
+38381508-01c0-4fd2-a225-f3a6937ede0e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"MinSalary: 2500000 | MaxSalary: 45000000 | IndustryNames: IT phần mềm, Kinh doanh",2025-06-01T16:17:22.720225800
+bc495e80-edbf-4017-960b-669a81145b3c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MinSalary: 2500000 | MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-06-01T16:17:24.651939200
+537d5eef-20b8-414f-99d4-4bc9c68e391f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MinSalary: 2500000 | MaxSalary: 45000000 | IndustryNames: IT phần mềm,2025-06-01T16:17:24.651939200
+d47c8cd7-add3-4e07-aadf-90ae070a510a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MinSalary: 2500000 | MaxSalary: 45000000,2025-06-01T16:17:25.111480100
+8dc117dc-ddb0-4aa3-a47d-205dab8d4be0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MinSalary: 2500000 | MaxSalary: 45000000,2025-06-01T16:17:25.111480100
+b321f572-5988-4e02-bdec-f20d47852b24,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MinSalary: 2500000 | MaxSalary: 45000000 | IndustryNames: Kinh doanh,2025-06-01T16:17:25.828490900
+84cac16e-8a71-47bd-a6ce-31caa646ff85,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MinSalary: 2500000 | MaxSalary: 45000000 | IndustryNames: Kinh doanh,2025-06-01T16:17:25.828490900
+91cac380-8bde-44fd-b7d7-a3e295a26c3b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MinSalary: 2500000 | MaxSalary: 45000000,2025-06-01T16:18:55.831263500
+3a6b8133-c8ba-4fda-861a-387f0b1ca34a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MinSalary: 2500000 | MaxSalary: 45000000,2025-06-01T16:18:55.831263500
+24833d05-f611-4643-809e-7b294f1e7827,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MinSalary: 2500000 | MaxSalary: 45000000 | IndustryNames: Kinh doanh,2025-06-01T16:18:56.255498400
+d1110884-f8ce-4871-ae24-725e6db0aa60,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MinSalary: 2500000 | MaxSalary: 45000000 | IndustryNames: Kinh doanh,2025-06-01T16:18:56.255498400
+c3e23af0-8beb-4ccc-a81c-11257e8d7927,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: kinh doanh | MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T16:27:19.301772
+7136f5db-245d-4ceb-a5cf-d76ca9583559,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: it phần cứng,kinh doanh | MaxSalary: 45000000 | MinSalary: 2500000",2025-06-01T16:27:22.663486200
+630bfbfa-dc40-44cb-a82c-c5bf21b9f202,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: it phần cứng | MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T16:27:29.754377300
+29283ed7-e57f-44ac-bd59-e169bfd9b68c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T16:27:30.378617500
+defd7ce7-0a82-49ca-a245-5b6c8bcfb5c3,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: it phần cứng,it phần mềm | MaxSalary: 45000000 | MinSalary: 2500000",2025-06-01T16:27:31.907954300
+a74a83ba-f774-4c46-8a61-85362822cac7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: cơ khí/điện - điện tử,it phần cứng,it phần mềm | MaxSalary: 45000000 | MinSalary: 2500000",2025-06-01T16:27:32.904545700
+a17b9d46-cc34-451e-9ed5-bf296b1fc7f4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: cơ khí/điện - điện tử,it phần cứng,it phần mềm | MaxSalary: 45000000 | MinSalary: 2500000",2025-06-01T16:30:10.555737100
+fe797c6e-f640-4774-9eaa-dd6125ff0f74,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: cơ khí/điện - điện tử,it phần cứng,it phần mềm | MaxSalary: 45000000 | MinSalary: 2500000 | TypesOfWork: từ xa",2025-06-01T16:30:12.507032500
+89c0e011-18de-44fb-b331-7d2de7ddc5a8,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: cơ khí/điện - điện tử,it phần cứng,it phần mềm | MaxSalary: 45000000 | MinSalary: 2500000 | TypesOfWork: thực tập sinh",2025-06-01T16:30:18.451834800
+026b6f6e-9e70-4cce-9edd-82e7123256d7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 13261803 | MinSalary: 2500000,2025-06-01T22:00:55.129050100
+2472dfdc-cacb-426a-89cc-c0c4796ba15a,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T22:01:00.340291500
+9794d11d-977c-4479-a9aa-258c441d72ad,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T22:01:09.067999100
+25fcf4b8-60aa-43b1-9852-354af4b02e39,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: Công việc it,2025-06-01T22:01:13.577168800
+3b4d1e4e-bbbf-4b07-bde6-1d95deb598a9,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T22:01:17.931694
+b0f4c593-1e44-4257-b431-40eee5e127ec,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: it,2025-06-01T22:01:21.000521500
+7bac3e86-895f-4790-9a42-6a4336e6186b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T22:01:30.420672900
+96d568ed-b351-4371-980b-7dd12c4cdd4e,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: logistics | MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T22:01:41.876311700
+98019f9c-9429-4aed-a663-c6026c7ce306,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: logistics | MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T22:01:47.084752700
+1eb91413-7964-4006-b759-6fe2ddc8e483,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T22:01:49.106982700
+b3e00911-013e-44ac-a386-73a79d05cd5d,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: logisticss,2025-06-01T22:01:51.393560800
+19213a7d-b7ac-4ebb-baa8-c6acfa735534,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T22:01:54.940476100
+da4a2339-6022-4865-af9d-a520300b2232,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,MaxSalary: 45000000 | MinSalary: 2500000,2025-06-01T22:02:00.262557100
+43b19f84-a3d7-403b-9ffd-44b0bf04ecfe,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: logistics,2025-06-01T22:02:03.210679800
+aa2300ff-3103-4a8d-90a2-7430f0d96be4,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: kiến trúc/xây dựng,2025-06-02T08:52:21.222644600
+611d12ee-784e-4ea2-891a-741c4285790f,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: tài xế,2025-06-02T08:59:28.894293500
+b8a560d7-11ad-47d8-8060-ab99a9e58524,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: nhà hàng/khách sạn,2025-06-02T09:06:57.005964300
+abb1b38a-93f5-4036-893b-e21e9baebba0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: it phần cứng,2025-06-02T09:07:06.422913300
+0b9edf29-73d4-46f3-a07b-e8b3e9fe9917,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: công nghệ ô tô,2025-06-02T09:07:13.707812100
+3952fa0b-9c32-4b0d-9bc0-1a64acaa27c0,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: thương mại điện tử,2025-06-02T09:38:22.759795400
+2e9822a3-d2a1-4cc0-a33f-17f3737649af,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: it phần mềm,2025-06-02T09:39:36.426263100
+04ea1377-c2f5-465c-978d-a28cc29703fa,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: it phần mềm,2025-06-02T09:39:42.973255300
+48482c75-4d88-40a1-a149-ed7657568535,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: lập trình viên,2025-06-02T09:39:47.857958200
+b66948ca-524a-4843-b320-c1f41d5c7c41,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: thương mại điện tử,2025-06-02T10:01:44.739884900
+29bb49ce-3650-4c4c-b324-e8c8b4867a9b,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: it phần mềm,2025-06-02T10:38:10.098971900
+9ff6407e-c234-4beb-a87f-dc2e0dd31c7c,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: thành phố hồ chí minh | IndustryNames: it phần mềm,2025-06-02T10:38:24.697351900
+9e1e1ed7-a7f4-43fb-9ddf-11338726b9bc,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: thành phố hồ chí minh | IndustryNames: it phần mềm,2025-06-02T10:38:30.936155300
+b70e0d07-ef70-4ce7-824b-6789542e3782,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,CityName: thành phố hồ chí minh | IndustryNames: it phần mềm,2025-06-02T10:38:35.942116800
+b21aa7b9-504c-480e-ba8e-2700c563b952,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,Title: Lập trình viên,2025-06-02T10:38:38.334512500
+f8e016d1-0c96-40ed-bd36-44809ae6af63,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: thương mại điện tử,2025-06-02T15:21:07.328995500
+6ecb24cb-db43-4999-9fca-9eb6b92b2d48,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: thương mại điện tử,2025-06-02T15:33:56.308102400
+3ce984e5-d138-4c5e-8ce7-7e3c89b033b7,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: thương mại điện tử,viễn thông",2025-06-02T15:34:00.575049300
+71095aa8-6b33-4c21-8cde-7b081a629023,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: viễn thông,2025-06-02T15:34:04.047280100
+ff6a522f-73a6-4595-b964-5d03a6638d03,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: viễn thông,2025-06-02T15:34:09.159498100
+43e22b61-8a11-427d-993f-69cfe110a888,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,"IndustryNames: phiên dịch,viễn thông",2025-06-02T15:34:10.796239900
+ad148964-a37c-4d87-8e46-3a4a78585241,dd3f7284-9a66-4dc9-9af7-e15c1a87e28d,IndustryNames: phiên dịch,2025-06-02T15:34:13.305073700
