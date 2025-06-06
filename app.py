@@ -26,7 +26,8 @@ import redis
 import hashlib
 import pickle
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-
+from cryptography.fernet import Fernet
+import base64
 # Thiết lập mã hóa
 os.environ['PYTHONIOENCODING'] = 'utf-8'
 os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
@@ -47,11 +48,18 @@ logger = logging.getLogger(__name__)
 
 # Khởi tạo Flask
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*", "allow_headers": "Authorization"}})
+# Cấu hình CORS
+CORS(app, resources={
+    r"/*": {
+        "origins": ["http://localhost:3000"],
+        "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+        "allow_headers": ["Content-Type", "Authorization"]
+    }
+})
 
 # Cấu hình file paths
-SEARCH_HISTORY_FILEPATH = os.environ.get("SEARCH_HISTORY_FILEPATH", os.path.join("..", "search.csv"))
-JOBS_FILEPATH = os.environ.get("JOBS_FILEPATH", os.path.join("..", "job_post.csv"))
+SEARCH_HISTORY_FILEPATH = os.environ.get("SEARCH_HISTORY_FILEPATH", os.path.join(os.path.dirname(os.path.dirname(__file__)), "search.csv"))
+JOBS_FILEPATH = os.environ.get("JOBS_FILEPATH", os.path.join(os.path.dirname(os.path.dirname(__file__)), "job_post.csv"))
 # Cấu hình Gemini API
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
@@ -85,13 +93,14 @@ in_memory_cache = {}
 # Biến cấu hình tối ưu hóa
 MAX_WORKERS = 8
 PRECOMPUTE_EMBEDDINGS = True
-EMBEDDINGS_FILE = "job_embeddings.pkl"
+EMBEDDINGS_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "embeddings_cache.pkl")
 EMBEDDING_REFRESH_HOURS = 24
 SEMANTIC_SEARCH_TIMEOUT = 30
 USE_JOB_INDEXING = True
 ENABLE_PREFILTERING = True
 MAX_JOBS_FOR_GEMINI = 50
 EMBEDDING_CACHE_SIZE = 1000
+CACHE_VERSION = "1.0"  # Thêm version để quản lý cache
 
 # Biến toàn cục
 job_index = {}
@@ -324,162 +333,123 @@ def preprocess_text(text, bypass_stop_words=False, normalize_for_keywords=False)
             boosted_words.append(word)
     return ' '.join(boosted_words)
 
-# Class ImprovedCommentFilter
 class ImprovedCommentFilter:
     def __init__(self):
+        self.patterns = self._init_patterns()
+        self.model = None
         try:
-            self.en_model = AutoModelForSequenceClassification.from_pretrained("unitary/toxic-bert")
-            self.en_tokenizer = AutoTokenizer.from_pretrained("unitary/toxic-bert")
-            self.en_model.eval()
-            self.patterns = self._init_patterns()
-            self.feedback_data = []
-            logger.info("Khởi tạo ImprovedCommentFilter thành công")
+            self.model = setup_gemini(os.getenv('GEMINI_API_KEY'))
         except Exception as e:
-            logger.error(f"Lỗi khởi tạo models: {e}")
-            raise
+            logger.error(f"Lỗi khi khởi tạo Gemini model: {str(e)}")
 
     def _init_patterns(self):
-        vn_patterns = [
-            r'\b[đdĐD][ịiịĩ]+[tT]*\w*', r'\b[cC][ặăắẳẵ]+[cC]*\w*', r'\b[lL][ồôỗổ]+[nN]*\w*',
-            r'\b[đdĐD][éeèẻẽẹêếềểễệ]+[oO]*\w*', r'\b[đdĐD][ũuụủứừửữự]+[mM][aàáảãạăằắẳẵặâầấẩẫậ]*\w*',
-            r'\b[cC][hH][óoôốồổỗộơớờởỡợ]+\w*', r'\b[sS][úuứừửữự]+[cC]\w*', r'\b[nN][gG][uUưƯ]\w*',
-            r'\b[kK][hH][óoôốồổỗộơớờởỡợ][nN]\w*'
-        ]
-        en_patterns = [
-            r'\bf+u+c+k+\w*', r'\bs+h+[i1]+t+\w*', r'\bb+i+t+c+h+\w*', r'\ba+s+h+o+l+e+\w*',
-            r'\bd+u+m+b+\w*', r'\bi+d+i+o+t+\w*', r'\bs+t+u+p+i+d+\w*'
-        ]
-        all_patterns = vn_patterns + en_patterns
-        return re.compile('|'.join(all_patterns), re.IGNORECASE | re.UNICODE)
+        return {
+            'vietnamese': [
+                r'\b(địt|đụ|đéo|cặc|lồn|đĩ|điếm|chó|ngu|ngu ngốc|ngu si|đần|đần độn|khốn nạn|đồ khốn|đồ ngu|đồ chó|đồ điếm|đồ đĩ|đồ khốn nạn|đồ vô dụng|đồ vô tích sự|đồ bỏ đi|đồ rác rưởi|đồ hèn|đồ hèn nhát|đồ hèn mạt|đồ hèn hạ|đồ hèn kém|đồ hèn mọn|đồ hèn nhược|đồ hèn yếu)\b',
+            ],
+            'english': [
+                r'\b(fuck|shit|asshole|bitch|cunt|dick|pussy|bastard|motherfucker|retard|idiot|moron|stupid|dumb|fool|loser|jerk|scum|trash|garbage|worthless|useless)\b',
+            ]
+        }
 
     def _check_patterns(self, text):
-        return bool(self.patterns.search(text))
+        for lang, patterns in self.patterns.items():
+            for pattern in patterns:
+                if re.search(pattern, text, re.IGNORECASE):
+                    return True
+        return False
 
     def _get_model_score(self, text):
         try:
-            inputs = self.en_tokenizer(text, return_tensors="pt", truncation=True, max_length=256)
-            with torch.no_grad():
-                outputs = self.en_model(**inputs)
-                probs = torch.softmax(outputs.logits, dim=1)
-                toxic_score = probs[0][1].item()
-            return toxic_score
+            if not self.model:
+                return 0.0
+                
+            prompt = f"""Analyze the following text for toxicity and inappropriate content. 
+            Return a score between 0 and 1, where:
+            - 0 means completely safe and appropriate
+            - 1 means highly toxic or inappropriate
+            
+            Text: {text}
+            
+            Score:"""
+            
+            response = self.model.generate_content(prompt)
+            score = float(response.text.strip())
+            return min(max(score, 0.0), 1.0)
         except Exception as e:
-            logger.error(f"Lỗi khi lấy điểm từ model: {e}")
-            return 0.5
+            logger.error(f"Lỗi khi lấy điểm từ model: {str(e)}")
+            return 0.0
 
     def check_with_gemini(self, text, is_vietnamese=False):
         try:
-            prompt = f"""
-            Hãy phân tích nội dung bình luận sau và đánh giá mức độ phù hợp:
-            "{text}"
+            if not self.model:
+                return False, 0.0
 
-            Hãy phân tích các khía cạnh sau:
-            1. Chửi thề, văng tục
-            2. Xúc phạm, công kích cá nhân hoặc tập thể
-            3. Phân biệt đối xử (giới tính, chủng tộc, tôn giáo...)
-            4. Đe dọa, quấy rối
-            5. Spam hoặc nội dung rác
-            6. Ngôn từ tiêu cực, gây hấn
-            7. Nội dung khiêu dâm, không phù hợp thuần phong mỹ tục
+            prompt = f"""Analyze the following text for toxicity and inappropriate content.
+            The text is in {'Vietnamese' if is_vietnamese else 'English'}.
+            
+            Consider:
+            1. Profanity and offensive language
+            2. Hate speech or discriminatory content
+            3. Threats or violent content
+            4. Sexual content
+            5. Personal attacks or harassment
+            
+            Text: {text}
+            
+            Return a JSON response with:
+            - is_toxic: boolean
+            - score: float between 0 and 1
+            - reason: brief explanation
+            
+            Response:"""
 
-            {"Lưu ý phân tích thêm về ngữ cảnh và cách dùng từ trong tiếng Việt." if is_vietnamese else ""}
-
-            Chỉ trả về kết quả dạng JSON với cấu trúc:
-            {{
-                "is_toxic": true/false,
-                "confidence": 0.95,
-                "categories": ["loại vi phạm 1", "loại vi phạm 2"],
-                "explanation": "giải thích ngắn gọn",
-                "severity": "low/medium/high",
-                "context_analysis": "nhận xét về ngữ cảnh"
-            }}
-            """
-            if not GEMINI_API_KEY:
-                raise Exception("GEMINI_API_KEY chưa được thiết lập")
-            genai.configure(api_key=GEMINI_API_KEY)
-            model = genai.GenerativeModel(MODEL_NAME)
-            response = model.generate_content(prompt)
-            if not response or not response.text:
-                raise Exception("Không nhận được phản hồi từ Gemini")
-            response_text = response.text.strip()
-            if "```json" in response_text:
-                response_text = response_text.split("```json")[1].split("```")[0].strip()
-            elif "```" in response_text:
-                response_text = response_text.split("```")[1].split("```")[0].strip()
-            try:
-                result = json.loads(response_text)
-                required_fields = ['is_toxic', 'confidence', 'categories', 'explanation', 'severity']
-                for field in required_fields:
-                    if field not in result:
-                        result[field] = None if field in ['explanation', 'severity'] else ([] if field == 'categories' else False if field == 'is_toxic' else 0.5)
-                return result
-            except json.JSONDecodeError as e:
-                logger.error(f"Lỗi parse JSON từ Gemini: {e}")
-                return {
-                    "is_toxic": False,
-                    "confidence": 0.5,
-                    "categories": [],
-                    "explanation": "Không thể phân tích phản hồi từ Gemini",
-                    "severity": "low",
-                    "context_analysis": ""
-                }
+            response = self.model.generate_content(prompt)
+            result = json.loads(response.text)
+            
+            return result.get('is_toxic', False), result.get('score', 0.0)
+            
         except Exception as e:
-            logger.error(f"Lỗi khi gọi Gemini: {e}")
-            return {
-                "is_toxic": False,
-                "confidence": 0.5,
-                "categories": [],
-                "explanation": f"Lỗi khi phân tích: {str(e)}",
-                "severity": "low",
-                "context_analysis": ""
-            }
+            logger.error(f"Lỗi khi kiểm tra với Gemini: {str(e)}")
+            return False, 0.0
 
     def is_vietnamese(self, text):
-        vietnamese_chars = "áàảãạăắằẳẵặâấầẩẫậéèẻẽẹêếềểễệíìỉĩịóòỏõọôốồổỗộơớờởỡợúùủũụưứừửữựýỳỷỹỵđ"
-        count = sum(1 for char in text.lower() if char in vietnamese_chars)
-        return count > 0
+        # Kiểm tra xem text có phải tiếng Việt không
+        return bool(re.search(r'[àáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ]', text))
 
     def is_toxic(self, text, threshold=0.5):
-        logger.info(f"Kiểm tra nội dung: {text[:100]}...")
+        # Kiểm tra patterns trước
         if self._check_patterns(text):
             return True, 1.0
-        is_vn = self.is_vietnamese(text)
-        if is_vn:
-            gemini_result = self.check_with_gemini(text, is_vietnamese=True)
-            is_toxic = gemini_result["is_toxic"]
-            score = gemini_result["confidence"]
-            return is_toxic, score
-        else:
-            model_score = self._get_model_score(text)
-            if 0.4 <= model_score <= 0.6:
-                gemini_result = self.check_with_gemini(text, is_vietnamese=False)
-                if gemini_result["is_toxic"]:
-                    return True, max(model_score, gemini_result["confidence"])
-            return model_score > threshold, model_score
+            
+        # Nếu không match patterns, kiểm tra với model
+        is_vietnamese = self.is_vietnamese(text)
+        is_toxic, score = self.check_with_gemini(text, is_vietnamese)
+        
+        return is_toxic, score
 
     def filter_comment(self, text, threshold=0.5):
-        is_toxic, score = self.is_toxic(text, threshold)
-        is_vn = self.is_vietnamese(text)
-        if is_toxic or (0.4 <= score <= 0.6):
-            gemini_result = self.check_with_gemini(text, is_vietnamese=is_vn)
-            result = {
-                'is_toxic': is_toxic,
-                'score': score,
-                'message': 'Bình luận của bạn chứa nội dung không phù hợp.' if is_toxic else 'Bình luận phù hợp.',
-                'details': {
-                    'categories': gemini_result.get('categories', []),
-                    'explanation': gemini_result.get('explanation', ''),
-                    'severity': gemini_result.get('severity', 'low'),
-                    'context_analysis': gemini_result.get('context_analysis', '')
-                }
-            }
-        else:
-            result = {
-                'is_toxic': False,
-                'score': score,
-                'message': 'Bình luận phù hợp.'
-            }
-        return result
+        """
+        Kiểm tra và lọc comment không phù hợp
+        Returns: (is_toxic: bool, score: float)
+        """
+        try:
+            # Kiểm tra patterns trước
+            if self._check_patterns(text):
+                return True, 1.0
+                
+            # Nếu không match patterns, kiểm tra với model
+            is_vietnamese = self.is_vietnamese(text)
+            is_toxic, score = self.check_with_gemini(text, is_vietnamese)
+            
+            if is_toxic and score >= threshold:
+                return True, score
+                
+            return False, score
+            
+        except Exception as e:
+            logger.error(f"Lỗi khi lọc comment: {str(e)}")
+            return False, 0.0
 
 # Khởi tạo CommentFilter
 comment_filter = ImprovedCommentFilter()
@@ -507,6 +477,8 @@ def extract_text_from_docx(docx_file):
         return ""
 
 def create_analysis_prompt(cv_text, job_data):
+    """Tạo prompt để gửi đến Gemini"""
+    # Trích xuất thông tin từ job_data
     job_description = job_data.get('description', '')
     job_requirements = job_data.get('requirement', '')
     job_benefits = job_data.get('benefit', '')
@@ -515,6 +487,7 @@ def create_analysis_prompt(cv_text, job_data):
     job_position = job_data.get('position', '')
     job_nice_to_haves = job_data.get('niceToHaves', '')
     
+    # Tạo một mô tả công việc đầy đủ
     full_job_description = f"""
     # Tiêu đề: {job_data.get('title', '')}
     # Vị trí: {job_position}
@@ -610,33 +583,173 @@ def create_analysis_prompt(cv_text, job_data):
             }}
         }}
     }}
+    ```
+
+    Chỉ trả về đối tượng JSON đúng định dạng, không bao gồm markdown hoặc bất kỳ văn bản nào khác. 
+    Đảm bảo rằng tất cả trường là dữ liệu đúng kiểu: điểm số là số, danh sách là mảng, và văn bản là chuỗi.
     """
     return prompt
 
 def analyze_cv_with_gemini(cv_text, job_data, api_key):
+    """Sử dụng Gemini để phân tích CV và mô tả công việc"""
+    # Thiết lập API
     setup_gemini(api_key)
+    
+    # Tạo prompt
     prompt = create_analysis_prompt(cv_text, job_data)
+    
     try:
+        # Gọi Gemini API
         model = genai.GenerativeModel(MODEL_NAME)
         response = model.generate_content(prompt)
+        
+        # Xử lý phản hồi
         if response:
             try:
+                # Gemini có thể trả về text có thể bao gồm markdown hoặc backticks
+                # Cần làm sạch để chỉ lấy phần JSON
                 response_text = response.text
+                
+                # Loại bỏ backticks và json markers nếu có
                 cleaned_text = response_text
                 if "```json" in response_text:
                     cleaned_text = response_text.split("```json")[1].split("```")[0].strip()
                 elif "```" in response_text:
                     cleaned_text = response_text.split("```")[1].split("```")[0].strip()
+                
+                # Parse JSON
                 result = json.loads(cleaned_text)
                 return result
             except Exception as e:
                 logger.error(f"Lỗi xử lý phản hồi từ Gemini: {e}")
+                logger.error(f"Phản hồi gốc: {response.text}")
                 raise Exception(f"Không thể phân tích phản hồi từ Gemini: {e}")
         else:
             raise Exception("Không nhận được phản hồi từ Gemini")
     except Exception as e:
         logger.error(f"Lỗi khi gọi Gemini API: {e}")
         raise e
+class CVSecurity:
+    def __init__(self):
+        # Tạo key mã hóa
+        self.key = Fernet.generate_key()
+        self.cipher_suite = Fernet(self.key)
+    def encrypt_cv_data(self, cv_text):
+        """Mã hóa nội dung CV"""
+        try:
+            # Mã hóa dữ liệu
+            encrypted_data = self.cipher_suite.encrypt(cv_text.encode())
+            return base64.b64encode(encrypted_data).decode()
+        except Exception as e:
+            logger.error(f"Lỗi khi mã hóa CV: {e}")
+            return None
+
+    def decrypt_cv_data(self, encrypted_data):
+        """Giải mã nội dung CV"""
+        try:
+            # Giải mã dữ liệu
+            decrypted_data = self.cipher_suite.decrypt(base64.b64decode(encrypted_data))
+            return decrypted_data.decode()
+        except Exception as e:
+            logger.error(f"Lỗi khi giải mã CV: {e}")
+            return None
+class SensitiveDataProcessor:
+    def __init__(self):
+        # Các pattern để nhận diện thông tin nhạy cảm
+        self.patterns = {
+            'email': r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}',
+            'phone': r'(?:\+84|0)[0-9]{9,10}',
+            'id_card': r'[0-9]{9}|[0-9]{12}',
+            'address': r'(?:đường|phố|quận|huyện|tỉnh|thành phố)[\s\w]+',
+        }
+    
+    def mask_sensitive_data(self, cv_text):
+        """Che giấu thông tin nhạy cảm trong CV"""
+        masked_text = cv_text
+        
+        for data_type, pattern in self.patterns.items():
+            if data_type == 'email':
+                masked_text = re.sub(pattern, '[EMAIL]', masked_text)
+            elif data_type == 'phone':
+                masked_text = re.sub(pattern, '[PHONE]', masked_text)
+            elif data_type == 'id_card':
+                masked_text = re.sub(pattern, '[ID_CARD]', masked_text)
+            elif data_type == 'address':
+                masked_text = re.sub(pattern, '[ADDRESS]', masked_text)
+                
+        return masked_text
+
+# Khởi tạo các đối tượng bảo mật
+cv_security = CVSecurity()
+sensitive_processor = SensitiveDataProcessor()
+
+def preprocess_cv(cv_text, max_length=4000):
+    """
+    Tiền xử lý CV để giảm kích thước và tối ưu hóa nội dung trước khi phân tích
+    
+    Args:
+        cv_text (str): Nội dung CV gốc
+        max_length (int): Độ dài tối đa cho phép của CV sau khi xử lý
+        
+    Returns:
+        str: CV đã được tiền xử lý
+    """
+    try:
+        # 1. Loại bỏ thông tin cá nhân nhạy cảm
+        patterns = [
+            r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}',  # email
+            r'(?:\+84|0)[0-9]{9,10}',  # phone
+            r'[0-9]{9}|[0-9]{12}',  # id card
+            r'(?:đường|phố|quận|huyện|tỉnh|thành phố)[\s\w]+',  # address (VN)
+            r'(?:address|city|district|province|country)[\s\w]+',  # address (EN)
+            r'(?:ngày sinh|date of birth|dob)[\s\w:/.]+',  # date of birth
+            r'(?:họ tên|full name|name)[\s\w:]+',  # name
+        ]
+        for pattern in patterns:
+            cv_text = re.sub(pattern, '', cv_text, flags=re.IGNORECASE)
+
+        # 2. Chỉ giữ lại các section quan trọng
+        important_sections = [
+            r'(?:education|học vấn|trình độ học vấn)(.*?)(?:\n\n|\Z|experience|kinh nghiệm|skills|kỹ năng|projects|dự án|certifications|chứng chỉ|objective|mục tiêu nghề nghiệp)',
+            r'(?:experience|kinh nghiệm)(.*?)(?:\n\n|\Z|education|học vấn|skills|kỹ năng|projects|dự án|certifications|chứng chỉ|objective|mục tiêu nghề nghiệp)',
+            r'(?:skills|kỹ năng)(.*?)(?:\n\n|\Z|education|học vấn|experience|kinh nghiệm|projects|dự án|certifications|chứng chỉ|objective|mục tiêu nghề nghiệp)',
+            r'(?:projects|dự án)(.*?)(?:\n\n|\Z|education|học vấn|experience|kinh nghiệm|skills|kỹ năng|certifications|chứng chỉ|objective|mục tiêu nghề nghiệp)',
+            r'(?:certifications|chứng chỉ)(.*?)(?:\n\n|\Z|education|học vấn|experience|kinh nghiệm|skills|kỹ năng|projects|dự án|objective|mục tiêu nghề nghiệp)',
+            r'(?:objective|mục tiêu nghề nghiệp)(.*?)(?:\n\n|\Z|education|học vấn|experience|kinh nghiệm|skills|kỹ năng|projects|dự án|certifications|chứng chỉ)',
+        ]
+        
+        extracted = ""
+        for section in important_sections:
+            matches = re.findall(section, cv_text, flags=re.IGNORECASE | re.DOTALL)
+            for match in matches:
+                extracted += match.strip() + "\n\n"
+
+        # 3. Nếu không tìm thấy section nào, sử dụng nội dung đã loại bỏ thông tin cá nhân
+        if not extracted.strip():
+            extracted = cv_text.strip()
+
+        # 4. Loại bỏ khoảng trắng thừa và ký tự đặc biệt
+        extracted = re.sub(r'\s+', ' ', extracted)
+        extracted = re.sub(r'[^\w\s_àáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệđìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵ]', ' ', extracted, flags=re.UNICODE)
+        
+        # 5. Giới hạn độ dài
+        if len(extracted) > max_length:
+            # Cắt theo câu hoàn chỉnh
+            sentences = re.split(r'[.!?]+', extracted)
+            truncated = ""
+            for sentence in sentences:
+                if len(truncated + sentence) <= max_length:
+                    truncated += sentence + "."
+                else:
+                    break
+            extracted = truncated.strip()
+
+        return extracted
+
+    except Exception as e:
+        logger.error(f"Lỗi khi tiền xử lý CV: {e}")
+        return cv_text[:max_length]  # Fallback: cắt bớt nếu có lỗi
+
 
 # Hàm xử lý công việc và gợi ý
 def load_jobs_from_csv(filepath=JOBS_FILEPATH, max_jobs=1400):
@@ -909,37 +1022,44 @@ def load_embeddings_from_file():
         try:
             with open(EMBEDDINGS_FILE, 'rb') as f:
                 data = pickle.load(f)
-                job_embeddings = data.get('embeddings', {})
-                last_embedding_update = data.get('timestamp', None)
-                logger.info(f"Đã tải {len(job_embeddings)} embeddings từ file {EMBEDDINGS_FILE}")
+                # Kiểm tra version cache
+                if data.get('version') == CACHE_VERSION:
+                    job_embeddings = data.get('embeddings', {})
+                    last_embedding_update = data.get('timestamp', None)
+                    logger.info(f"Đã tải {len(job_embeddings)} embeddings từ cache")
+                    return True
+                else:
+                    logger.info("Cache không hợp lệ do version không khớp")
+                    return False
         except Exception as e:
             logger.error(f"Lỗi khi tải embeddings từ file: {e}")
-            job_embeddings = {}
-            last_embedding_update = None
+            return False
+    return False
+
+def save_embeddings_to_file():
+    try:
+        with open(EMBEDDINGS_FILE, 'wb') as f:
+            pickle.dump({
+                'embeddings': job_embeddings,
+                'timestamp': datetime.now(),
+                'version': CACHE_VERSION
+            }, f)
+        logger.info(f"Đã lưu {len(job_embeddings)} embeddings vào cache")
+        return True
+    except Exception as e:
+        logger.error(f"Lỗi khi lưu embeddings: {e}")
+        return False
 
 def precompute_embeddings(jobs):
     global job_embeddings, last_embedding_update
-    if not jobs:
-        logger.warning("Danh sách công việc rỗng, không tạo embeddings.")
-        return
-
-    # Kiểm tra nếu embeddings đã tồn tại và hợp lệ
-    if os.path.exists(EMBEDDINGS_FILE):
-        try:
-            with open(EMBEDDINGS_FILE, 'rb') as f:
-                data = pickle.load(f)
-                existing_embeddings = data.get('embeddings', {})
-                existing_timestamp = data.get('timestamp', None)
-                if len(existing_embeddings) == len(jobs) and \
-                   existing_timestamp and \
-                   (datetime.now() - existing_timestamp) < timedelta(hours=EMBEDDING_REFRESH_HOURS):
-                    job_embeddings = existing_embeddings
-                    last_embedding_update = existing_timestamp
-                    logger.info(f"Tái sử dụng {len(job_embeddings)} embeddings từ file")
-                    return
-        except Exception as e:
-            logger.error(f"Lỗi khi kiểm tra embeddings từ file: {e}")
-
+    
+    # Kiểm tra cache trước
+    if load_embeddings_from_file():
+        # Kiểm tra xem cache có còn hợp lệ không
+        if last_embedding_update and (datetime.now() - last_embedding_update) < timedelta(hours=EMBEDDING_REFRESH_HOURS):
+            logger.info("Sử dụng embeddings từ cache")
+            return
+    
     logger.info("Tạo mới embeddings cho công việc")
     job_ids = []
     for job in jobs:
@@ -962,16 +1082,8 @@ def precompute_embeddings(jobs):
         if i < len(all_embeddings):
             job_embeddings[job_id] = all_embeddings[i]
     
-    try:
-        with open(EMBEDDINGS_FILE, 'wb') as f:
-            pickle.dump({
-                'embeddings': job_embeddings,
-                'timestamp': datetime.now()
-            }, f)
-        logger.info(f"Đã lưu {len(job_embeddings)} embeddings vào file")
-    except Exception as e:
-        logger.error(f"Lỗi khi lưu embeddings: {e}")
-    
+    # Lưu embeddings vào file
+    save_embeddings_to_file()
     last_embedding_update = datetime.now()
 
 def fast_vector_search(query_embedding, jobs, top_k=100):
@@ -1096,28 +1208,52 @@ def health_check():
 @app.route('/check-comment', methods=['POST'])
 def check_comment():
     try:
-        data = request.json
-        if not data or 'text' not in data:
-            return jsonify({"error": "Thiếu nội dung bình luận"}), 400
-        text = data['text']
-        threshold = data.get('threshold', 0.5)
-        result = comment_filter.filter_comment(text, threshold)
-        return jsonify(result)
+        data = request.get_json()
+        text = data.get('text', '')
+        
+        if not text:
+            return jsonify({
+                'is_toxic': False,
+                'message': 'No text provided'
+            }), 400
+
+        # Khởi tạo bộ lọc comment
+        comment_filter = ImprovedCommentFilter()
+        
+        # Kiểm tra nội dung
+        is_toxic, score = comment_filter.filter_comment(text)
+        
+        # Tạo message dựa trên kết quả
+        message = 'Nội dung không phù hợp' if is_toxic else 'Nội dung phù hợp'
+        
+        return jsonify({
+            'is_toxic': is_toxic,
+            'score': score,
+            'message': message
+        })
+
     except Exception as e:
-        logger.exception(f"Lỗi khi kiểm tra bình luận: {str(e)}")
-        return jsonify({"error": str(e)}), 500
+        logger.error(f"Lỗi khi kiểm tra comment: {str(e)}")
+        return jsonify({
+            'is_toxic': False,
+            'message': f'Lỗi server: {str(e)}'
+        }), 500
 
 if __name__ == '__main__':
     logger.info("Starting JobRadar service on port 5000")
     jobs = load_jobs_from_csv(JOBS_FILEPATH)
     search_history = load_search_history_from_csv(SEARCH_HISTORY_FILEPATH)
+    
     if PRECOMPUTE_EMBEDDINGS:
-        load_embeddings_from_file()  # Tải embeddings từ file nếu tồn tại
-        # Chỉ chạy precompute_embeddings nếu embeddings không hợp lệ hoặc số lượng không khớp
-        if not job_embeddings or len(job_embeddings) != len(jobs) or \
+        # Chỉ tính toán lại embeddings nếu cache không hợp lệ
+        if not load_embeddings_from_file() or \
+           not job_embeddings or \
+           len(job_embeddings) != len(jobs) or \
            (last_embedding_update and (datetime.now() - last_embedding_update) > timedelta(hours=EMBEDDING_REFRESH_HOURS)):
-            logger.info("Tạo mới embeddings vì file không hợp lệ hoặc đã hết hạn")
+            logger.info("Tạo mới embeddings vì cache không hợp lệ hoặc đã hết hạn")
             precompute_embeddings(jobs)
+    
     if USE_JOB_INDEXING:
         create_job_index(jobs)
+    
     app.run(host='0.0.0.0', port=5000, debug=True)
